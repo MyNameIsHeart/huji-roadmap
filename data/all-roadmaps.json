@@ -1,0 +1,6101 @@
+{
+"year": 2027,
+"roadmaps": [
+{
+"code": "715-9512",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח וביוטכנולוגיה, חד-חוגי",
+"en": "Agroecology and Plant Health and Biotechnology, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "715-1915",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח, דו-חוגי, בשילוב כלכלת סביבה וניהול",
+"en": "Agroecology and Plant Health, dual-major, with Environmental Economics and Management"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "715-1510",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח, חד-חוגי",
+"en": "Agroecology and Plant Health, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "715-2515",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח, חד-חוגי, עם חטיבה באגרו-אינפורמטיקה",
+"en": "Agroecology and Plant Health, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "715-1501",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח, חד-חוגי, עם חטיבה באיכות הסביבה",
+"en": "Agroecology and Plant Health, single-major, with Environmental quality module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "715-2615",
+"name": {
+"he": "אגרואקולוגיה ובריאות הצמח, חד-חוגי, עם חטיבת שמירת טבע ומנהל שטחים",
+"en": "Agroecology and Plant Health, single-major with Nature Conservation and Landscape Management module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אגרואקולוגיה ובריאות הצמח",
+"en": "Agroecology & Plant Health"
+},
+"departmentId": 269
+},
+{
+"code": "606-6608",
+"name": {
+"he": "אחיוּת (סיעוד), חד-חוגי, שלוחת שמיר (אסף הרופא), לבעלי תעודת פרמדיקים",
+"en": "Nursing, single-major, Shamir (Assaf Harofeh), for certified paramedics"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-5615",
+"name": {
+"he": "אחיות (סיעוד), הסבת אקדמאים לתואר בוגר, \"שמיר\" (אסף הרופא)",
+"en": "Academic Retraining for B.S.N. - Shamir (Assaf Harofe)"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-5606",
+"name": {
+"he": "אחיות (סיעוד), חד-חוגי, בי\"ח הדסה",
+"en": "Nursing, single-major, Hadassah Ein Kerem"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-6606",
+"name": {
+"he": "אחיות (סיעוד), חד-חוגי, בי\"ח הדסה, מסלול עתודאים \"פיסגה\"",
+"en": "Nursing, single-major, Hadassah Hospital, Atuda track \"PISGA\""
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-5611",
+"name": {
+"he": "אחיות (סיעוד), חד-חוגי, שלוחת אסף הרופא",
+"en": "Nursing, single-major, Shamir (Assaf Harofeh)"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-5613",
+"name": {
+"he": "אחיות (סיעוד), חד-חוגי, שלוחת קפלן",
+"en": "Nursing, single-major, Kaplan"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "606-5614",
+"name": {
+"he": "אחיות (סיעוד), חד-חוגי, שלוחת קפלן, מסלול חובשים",
+"en": "Nursing, single-major, for Army Medics - Kaplan"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד)",
+"en": "Nursing"
+},
+"departmentId": 232
+},
+{
+"code": "555-9025",
+"name": {
+"he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+"en": "Amirim Honors Program – Natural Sciences"
+},
+"scope": {
+"he": "תוכנית מצטיינים",
+"en": "Honors Program"
+},
+"department": {
+"he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+"en": "Amirim – Honors Program – Natural Sciences"
+},
+"departmentId": 197
+},
+{
+"code": "523-9020",
+"name": {
+"he": "אמירים - תכנית מצטיינים - מחשבים",
+"en": "Amirim Honors Program - Computers"
+},
+"scope": {
+"he": "תוכנית מצטיינים",
+"en": "Honors Program"
+},
+"department": {
+"he": "אמירים - תכנית מצטיינים - מחשבים",
+"en": "Amirim – Honors Program - Computers"
+},
+"departmentId": 180
+},
+{
+"code": "176-1810",
+"name": {
+"he": "אנגלית, דו-חוגי",
+"en": "English, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "אנגלית",
+"en": "English"
+},
+"departmentId": 41
+},
+{
+"code": "150-1915",
+"name": {
+"he": "ארכאולוגיה והמזרח הקרוב הקדום, דו-חוגי",
+"en": "Archaeology and Ancient Near East, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ארכאולוגיה והמזרח הקרוב הקדום",
+"en": "Archaeology & Ancient near East"
+},
+"departmentId": 29
+},
+{
+"code": "150-1919",
+"name": {
+"he": "ארכאולוגיה והמזרח הקרוב הקדום, דו-חוגי, ארכאולוגיה עיונית",
+"en": "Archeology and Ancient Near East, Dual Major Theoretical archaeology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ארכאולוגיה והמזרח הקרוב הקדום",
+"en": "Archaeology & Ancient near East"
+},
+"departmentId": 29
+},
+{
+"code": "722-9513",
+"name": {
+"he": "ביוכימיה ומדעי המזון וביוטכנולוגיה, חד-חוגי",
+"en": "Biochemistry, Food Sciences and Biotechnology, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ביוכימיה ומדעי המזון",
+"en": "Biochemistry & Food Sciences"
+},
+"departmentId": 274
+},
+{
+"code": "722-2210",
+"name": {
+"he": "ביוכימיה ומדעי המזון, חד-חוגי",
+"en": "Biochemistry and Food Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ביוכימיה ומדעי המזון",
+"en": "Biochemistry & Food Sciences"
+},
+"departmentId": 274
+},
+{
+"code": "722-2217",
+"name": {
+"he": "ביוכימיה ומדעי המזון, חד-חוגי עם כלכלת סביבה וניהול כחוג נוסף לתואר",
+"en": "Biochemistry and Food Sciences, Single Major, with Environmental Economics and Management"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ביוכימיה ומדעי המזון",
+"en": "Biochemistry & Food Sciences"
+},
+"departmentId": 274
+},
+{
+"code": "722-2522",
+"name": {
+"he": "ביוכימיה ומדעי המזון, חד-חוגי, עם חטיבה באגרו-אינפורמטיקה",
+"en": "Biochemistry and Food Sciences, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ביוכימיה ומדעי המזון",
+"en": "Biochemistry & Food Sciences"
+},
+"departmentId": 274
+},
+{
+"code": "528-3090",
+"name": {
+"he": "בינה מלאכותית, דו-חוגי",
+"en": "Artificial Intelligence, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בינה מלאכותית",
+"en": "Artificial Intelligence"
+},
+"departmentId": 528
+},
+{
+"code": "528-3091",
+"name": {
+"he": "בינה מלאכותית, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Artificial Intelligence, dual-Major, with Computer Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בינה מלאכותית",
+"en": "Artificial Intelligence"
+},
+"departmentId": 528
+},
+{
+"code": "528-3095",
+"name": {
+"he": "בינה מלאכותית, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Artificial Intelligence, dual-major, with Cognitive and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בינה מלאכותית",
+"en": "Artificial Intelligence"
+},
+"departmentId": 528
+},
+{
+"code": "528-3092",
+"name": {
+"he": "בינה מלאכותית, דו-חוגי, בשילוב מתמטיקה",
+"en": "Artificial Intelligence, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בינה מלאכותית",
+"en": "Artificial Intelligence"
+},
+"departmentId": 528
+},
+{
+"code": "528-3093",
+"name": {
+"he": "בינה מלאכותית, דו-חוגי, בשילוב פיסיקה",
+"en": "Artificial Intelligence, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בינה מלאכותית",
+"en": "Artificial Intelligence"
+},
+"departmentId": 528
+},
+{
+"code": "181-1752",
+"name": {
+"he": "בלשנות גנרטיבית, דו-חוגי",
+"en": "Generative linguistics, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בלשנות",
+"en": "Linguistics"
+},
+"departmentId": 45
+},
+{
+"code": "181-1750",
+"name": {
+"he": "בלשנות פונקציונלית, דו-חוגי",
+"en": "Functional linguistics, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בלשנות",
+"en": "Linguistics"
+},
+"departmentId": 45
+},
+{
+"code": "181-1751",
+"name": {
+"he": "בלשנות, דו-חוגי",
+"en": "Linguistics, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בלשנות",
+"en": "Linguistics"
+},
+"departmentId": 45
+},
+{
+"code": "181-3012",
+"name": {
+"he": "בלשנות, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Linguistics, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "בלשנות",
+"en": "Linguistics"
+},
+"departmentId": 45
+},
+{
+"code": "821-7877",
+"name": {
+"he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, דו-חוגי",
+"en": "Geography, Environment and Geoinformatics, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "גאוגרפיה, סביבה וגאואינפורמטיקה",
+"en": "Geography, Environment and Geoinformatics"
+},
+"departmentId": 312
+},
+{
+"code": "821-8040",
+"name": {
+"he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, דו-חוגי, בשילוב מדעי הסביבה",
+"en": "Geography, Environment and Geoinformatics, dual-major, with Environmental Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "גאוגרפיה, סביבה וגאואינפורמטיקה",
+"en": "Geography, Environment and Geoinformatics"
+},
+"departmentId": 312
+},
+{
+"code": "821-7880",
+"name": {
+"he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, דו-חוגי, נתיבים- מסלול מואץ",
+"en": "Geography, Dual Major, Environment and Geoinformatics, Netivim accelerated track"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "גאוגרפיה, סביבה וגאואינפורמטיקה",
+"en": "Geography, Environment and Geoinformatics"
+},
+"departmentId": 312
+},
+{
+"code": "821-7881",
+"name": {
+"he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, חד-חוגי, נתיבים- מסלול מואץ",
+"en": "Geography, Environment and Geoinformatics, Single Major, Netivim accelerated track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "גאוגרפיה, סביבה וגאואינפורמטיקה",
+"en": "Geography, Environment and Geoinformatics"
+},
+"departmentId": 312
+},
+{
+"code": "821-7878",
+"name": {
+"he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, חד-חוגי, עם לימודים משלימים",
+"en": "Geography, Environment and Geoinformatics, Single Major, with Supplementary Studies"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "גאוגרפיה, סביבה וגאואינפורמטיקה",
+"en": "Geography, Environment and Geoinformatics"
+},
+"departmentId": 312
+},
+{
+"code": "105-1320",
+"name": {
+"he": "היסטוריה של עם ישראל ויהדות זמננו, דו-חוגי",
+"en": "History of the Jewish People & Contemporary Jewry, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "היסטוריה של עם ישראל ויהדות זמננו",
+"en": "History of Jewish People & Contemporary Jewry"
+},
+"departmentId": 3
+},
+{
+"code": "105-1324",
+"name": {
+"he": "היסטוריה של עם ישראל ויהדות זמננו, דו-חוגי, עם חינוך ותעודת הוראה",
+"en": "History of the Jewish People and Contemporary Jewry, Dual Major, combined with teaching certificate"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "היסטוריה של עם ישראל ויהדות זמננו",
+"en": "History of Jewish People & Contemporary Jewry"
+},
+"departmentId": 3
+},
+{
+"code": "151-1310",
+"name": {
+"he": "היסטוריה, דו-חוגי",
+"en": "History, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "היסטוריה",
+"en": "History"
+},
+"departmentId": 30
+},
+{
+"code": "151-1311",
+"name": {
+"he": "היסטוריה, דו-חוגי, בשילוב חינוך ותעודת הוראה",
+"en": "History, Dual Major, combined with Education and Teaching certificate studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "היסטוריה",
+"en": "History"
+},
+"departmentId": 30
+},
+{
+"code": "151-1319",
+"name": {
+"he": "היסטוריה, חד חוגי",
+"en": "History,  Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "היסטוריה",
+"en": "History"
+},
+"departmentId": 30
+},
+{
+"code": "109-1820",
+"name": {
+"he": "הלשון העברית, דו-חוגי",
+"en": "Hebrew Language, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "הלשון העברית",
+"en": "Hebrew Language"
+},
+"departmentId": 6
+},
+{
+"code": "583-5860",
+"name": {
+"he": "הנדסת חשמל ומדעי המחשב, חד-חוגי",
+"en": "Electrical and Computer Engineering, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ומדעי המחשב",
+"en": "Electrical Engineering and Computer Science"
+},
+"departmentId": 215
+},
+{
+"code": "581-7030",
+"name": {
+"he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי",
+"en": "Electrical Engineering and Applied Physics, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ופיזיקה יישומית",
+"en": "Electrical Engineering and Applied Physics"
+},
+"departmentId": 213
+},
+{
+"code": "581-7034",
+"name": {
+"he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בהנדסה קוונטית",
+"en": "Electrical engineering and Applied physics, Single Major, specialization in Quantum engineering"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ופיזיקה יישומית",
+"en": "Electrical Engineering and Applied Physics"
+},
+"departmentId": 213
+},
+{
+"code": "581-7031",
+"name": {
+"he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות במיקרו אלקטרוניקה",
+"en": "Electrical engineering and Applied physics, Single Major, specialization in microelectronic"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ופיזיקה יישומית",
+"en": "Electrical Engineering and Applied Physics"
+},
+"departmentId": 213
+},
+{
+"code": "581-7033",
+"name": {
+"he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בננו-הנדסה",
+"en": "Electrical engineering and Applied physics, Single Major, specialization in nano engineering"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ופיזיקה יישומית",
+"en": "Electrical Engineering and Applied Physics"
+},
+"departmentId": 213
+},
+{
+"code": "581-7032",
+"name": {
+"he": "הנדסת חשמל ופיסיקה יישומית- חד-חוגי, התמחות באופטואלקטרוניקה",
+"en": "Electrical engineering and Applied physics, Single Major, specialization in optoelectrical"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הנדסת חשמל ופיזיקה יישומית",
+"en": "Electrical Engineering and Applied Physics"
+},
+"departmentId": 213
+},
+{
+"code": "622-5622",
+"name": {
+"he": "הסבת אקדמאים לתואר בוגר בסיעוד \"שמיר\" (אסף-הרופא)",
+"en": "Academic converting to BSN in nursing - shamir (Assaf Harofeh)"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "הסבת אקדמאים לתואר בוגר אחיות (סיעוד) \"שמיר\" (אסף-הרופא)",
+"en": "Academic converting to BSN in nursing – shamir (Asaf-Harofe)"
+},
+"departmentId": 247
+},
+{
+"code": "222-1524",
+"name": {
+"he": "התוכנית הרב-תחומית במדעי הרוח, דו-חוגי",
+"en": "Multidisciplinary Program in Humanities, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תוכנית הרב תחומית במדעי הרוח",
+"en": "Liberal Arts"
+},
+"departmentId": 66
+},
+{
+"code": "619-5619",
+"name": {
+"he": "חובשים, חד-חוגי, קפלן",
+"en": ""
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד) לחובשים- \"קפלן\"",
+"en": "Nursing E.T.n - Kaplan"
+},
+"departmentId": 245
+},
+{
+"code": "200-1221",
+"name": {
+"he": "חינוך בהדגש במנהיגות חינוכית חברתית, דו-חוגי, בשילוב מדע המדינה",
+"en": "Education, Leadership emphasis, Dual-Major, combined with Political Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "200-2221",
+"name": {
+"he": "חינוך בוגר ראשי, דו-חוגי, מסלול מצטיינים",
+"en": "Bachelor's track, Dual Major, for outstanding students"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "200-1200",
+"name": {
+"he": "חינוך, דו-חוגי",
+"en": "Education, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "200-1222",
+"name": {
+"he": "חינוך, דו-חוגי, בשילוב סוציולוגיה ואנתרופולוגיה",
+"en": "Education, dual-major, with Sociology and Anthropology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "200-1229",
+"name": {
+"he": "חינוך, דו-חוגי, בשילוב פסיכולוגיה",
+"en": "Education, dual-major, with Psychology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "200-2222",
+"name": {
+"he": "חינוך, דו-חוגי, לתלמידים ללא פטור בעברית",
+"en": "Education, dual-major, for students without Hebrew exemption"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חינוך",
+"en": "Education"
+},
+"departmentId": 55
+},
+{
+"code": "325-3251",
+"name": {
+"he": "חשבונאות, דו-חוגי",
+"en": "Accounting, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חשבונאות",
+"en": "Accounting"
+},
+"departmentId": 104
+},
+{
+"code": "325-3252",
+"name": {
+"he": "חשבונאות, דו-חוגי, בשילוב כלכלה",
+"en": "Accounting, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חשבונאות",
+"en": "Accounting"
+},
+"departmentId": 104
+},
+{
+"code": "325-3226",
+"name": {
+"he": "חשבונאות, דו-חוגי, בשילוב מנהל עסקים",
+"en": "Accounting, dual-major, with Business Administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חשבונאות",
+"en": "Accounting"
+},
+"departmentId": 104
+},
+{
+"code": "325-4952",
+"name": {
+"he": "חשבונאות, דו-חוגי, בשילוב משפטים",
+"en": "Accounting, dual-major, with Law"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "חשבונאות",
+"en": "Accounting"
+},
+"departmentId": 104
+},
+{
+"code": "312-7300",
+"name": {
+"he": "יחסים בין-לאומיים, דו-חוגי",
+"en": "International Relations, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "יחסים בין-לאומיים",
+"en": "International Relations"
+},
+"departmentId": 94
+},
+{
+"code": "312-7301",
+"name": {
+"he": "יחסים בין-לאומיים, חד-חוגי עם משלימים",
+"en": "International Relations, Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "יחסים בין-לאומיים",
+"en": "International Relations"
+},
+"departmentId": 94
+},
+{
+"code": "560-5011",
+"name": {
+"he": "כימיה, דו-חוגי",
+"en": "Chemistry, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5025",
+"name": {
+"he": "כימיה, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Chemistry, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-8033",
+"name": {
+"he": "כימיה, דו-חוגי, בשילוב מדעי הסביבה",
+"en": "Chemistry, dual-major,with Environmental Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-8008",
+"name": {
+"he": "כימיה, דו-חוגי, בשילוב מדעי כדור הארץ",
+"en": "Chemistry, dual-major, with Earth Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5015",
+"name": {
+"he": "כימיה, דו-חוגי, תוכנית אתגר",
+"en": "Chemistry, dual-major, Etgar track"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5010",
+"name": {
+"he": "כימיה, חד-חוגי",
+"en": "Chemistry, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5012",
+"name": {
+"he": "כימיה, חד-חוגי, עם חטיבה",
+"en": "Chemistry, singal-major, with module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5014",
+"name": {
+"he": "כימיה, חד-חוגי, עם חטיבה, תכנית אתגר",
+"en": "Chemistry, singal-major, with module, Etgar"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5013",
+"name": {
+"he": "כימיה, חד-חוגי, תואר כפול עם עזריאלי -הנדסת חומרים",
+"en": "Chemistry and Material Engineering: Double Degree with Azrieli"
+},
+"scope": {
+"he": "תואר כפול עם מוסד אחר",
+"en": "Double degree with other institution"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "560-5020",
+"name": {
+"he": "כימיה, חד-חוגי, תוכנית אתגר",
+"en": "Chemistry, single-major, Etgar program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כימיה",
+"en": "Chemistry"
+},
+"departmentId": 199
+},
+{
+"code": "321-4116",
+"name": {
+"he": "כלכלה כחוג נוסף לתואר",
+"en": "Economy as an additional major"
+},
+"scope": {
+"he": "חוג נוסף לתואר",
+"en": "Additional major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-4115",
+"name": {
+"he": "כלכלה כחוג נוסף לתואר בתוכנית מכפיל",
+"en": "Economy as an additional major, MACHPIL program"
+},
+"scope": {
+"he": "חוג נוסף לתואר",
+"en": "Additional major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-4114",
+"name": {
+"he": "כלכלה כחוג נוסף לתואר בתוכנית מכפיל",
+"en": "Economy as an additional major, MACHPIL program"
+},
+"scope": {
+"he": "חוג נוסף לתואר",
+"en": "Additional major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-7500",
+"name": {
+"he": "כלכלה, דו-חוגי",
+"en": "Economics, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-3252",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב חשבונאות",
+"en": "Economics, dual-major, with Accounting"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-3020",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Economics, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-3033",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "Economics, dual-major, with MATAR - Interfaces of Technology, Society and Networks"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-3253",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב מנהל עסקים",
+"en": "Business Administration with Economics, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-1021",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב מתמטיקה",
+"en": "Economics, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-7411",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+"en": "Economics, dual-major, with Statistics and Data Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-7520",
+"name": {
+"he": "כלכלה, דו-חוגי, בשילוב פילוסופיה, תכנית מכפיל",
+"en": "Economics, Dual Major, combined with Philosophy, MACHPIL program"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "321-7501",
+"name": {
+"he": "כלכלה, חד-חוגי",
+"en": "Economics, Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "717-9515",
+"name": {
+"he": "כלכלת סביבה וניהול וביוטכנולוגיה, חד-חוגי",
+"en": "Environmental Economics and Biotechnology Management, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1915",
+"name": {
+"he": "כלכלת סביבה וניהול, דו-חוגי, בשילוב אגרואקולוגיה ובריאות הצמח",
+"en": "Environmental Economics and Management, dual-major, with Agroecology and Plant Health"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1918",
+"name": {
+"he": "כלכלת סביבה וניהול, דו-חוגי, בשילוב מדעי בעלי החיים",
+"en": "Environmental Economics and Management, dual-major, with Animal Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1910",
+"name": {
+"he": "כלכלת סביבה וניהול, דו-חוגי, בשילוב מדעי הצמח בחקלאות",
+"en": "Environmental Economics and Management, dual-major, with Plant Science in Agriculture"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1916",
+"name": {
+"he": "כלכלת סביבה וניהול, דו-חוגי, בשילוב מדעי הקרקע והמים",
+"en": "Environmental Economics and Management, dual-major, with Soil and Water Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1710",
+"name": {
+"he": "כלכלת סביבה וניהול, חד-חוגי",
+"en": "Environmental Economics and Management, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-7317",
+"name": {
+"he": "כלכלת סביבה וניהול, חד-חוגי, הכנה למוסמך מחקרי בכלכלה 3+1",
+"en": "Environmental Economics and Management preparation, Single Major, for MA in Business"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-2517",
+"name": {
+"he": "כלכלת סביבה וניהול, חד-חוגי, עם חטיבה באגרו-אינפורמטיקה",
+"en": "Environmental Economics and Management, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1715",
+"name": {
+"he": "כלכלת סביבה וניהול, חד-חוגי, עם חטיבה בשיווק ובמימון",
+"en": "Environmental Economics and Management, single-major, with Marketing and Finance module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1723",
+"name": {
+"he": "כלכלת סביבה וניהול, חד-חוגי,עם חטיבה בחקלאות ואיכות הסביבה",
+"en": "Environmental Economics and Management, single-major, with Agriculture and Environmental Quality module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "717-1722",
+"name": {
+"he": "כלכלת סביבה וניהול, חוג לאחר תואר בביוכימיה ומדעי המזון",
+"en": "Environmental Economics and Management, major after graduate"
+},
+"scope": {
+"he": "חוג לאחר תואר",
+"en": "Additional major post-degree"
+},
+"department": {
+"he": "כלכלת סביבה וניהול",
+"en": "Environmental Economics & Management"
+},
+"departmentId": 271
+},
+{
+"code": "124-1326",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור אסיה העכשווית",
+"en": "Asia studies, Dual Major, contemporary Asia section"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1332",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור הודו ואינדונזיה",
+"en": "Asian Studies, dual-major, India and Indonesia trend"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1337",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור הודו ואינדונזיה בשילוב מנהל עסקים",
+"en": "Asia studies, Dual Major, China section combined with Business Administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1323",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור הודו ואינדונזיה ותכנית ההדגש עם החוג ליחבל",
+"en": "Asia studies, India and Indonesia section combined with International Relations, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1331",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור יפן",
+"en": "Asian Studies, dual-major, Japan trend"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1329",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור יפן בשילוב מנהל עסקים",
+"en": "Asia studies, Dual Major, Japan section combined with business administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1339",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור יפן ותכנית הדגש עם החוג ליחב\"ל",
+"en": "Asia studies, Dual Major, Japan Section combined with business administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1330",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור סין",
+"en": "Asian Studies, dual-major, China trend"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1328",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור סין בשילוב מנהל עסקים",
+"en": "Asia studies, Dual Major, China section combined with business administration."
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1338",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור סין ותכנית ההדגש עם החוג ליחב\"ל",
+"en": "Asia studies, Dual Major, China section combined with International Relations"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1325",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור קוריאה",
+"en": "Asian Studies, dual-major, Korea trend"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1336",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור קוריאה ותכנית הדגש עם החוג ליחב\"ל",
+"en": "Asia studies, Dual Major, Korea Section combined with International Relations"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1327",
+"name": {
+"he": "לימודי אסיה, דו-חוגי, מדור תרבויות אסיה",
+"en": "Asia studies, Dual Major, Asian cultures section"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "124-1335",
+"name": {
+"he": "לימודי אסיה, דו-חוגי,מדור קוריאה בשילוב מנהל עסקים",
+"en": "Asia studies, Dual Major, Korea Section combined with Business Administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי אסיה",
+"en": "Asian Studies"
+},
+"departmentId": 18
+},
+{
+"code": "122-1340",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי",
+"en": "Islamic and Middle Eastern Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-1352",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים איראניים",
+"en": "Islamic and Middle Eastern Studies, Dual Major, Emphasis on Iranian studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-1354",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים בהאאיים",
+"en": "Islamic and Middle Eastern Studies, Dual Major, Emphasis on Baha'i studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-1353",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים טורקיים",
+"en": "Islamic and Middle Eastern Studies, Undergraduate, Double Major, Emphasis on Turkish studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-1342",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, רמת מתקדמים בערבית",
+"en": "Islamic and Middle Eastern Studies, Dual Major, Advanced level in Arabic"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-1343",
+"name": {
+"he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, רמת פטור בערבית",
+"en": "Islamic and Middle Eastern Studies, Dual Major, Exempt Level in Arabic"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "150-1916",
+"name": {
+"he": "לימודי המזרח הקרוב הקדום, דו-חוגי",
+"en": "Ancient Near East, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ארכאולוגיה והמזרח הקרוב הקדום",
+"en": "Archaeology & Ancient near East"
+},
+"departmentId": 29
+},
+{
+"code": "456-9323",
+"name": {
+"he": "לימודי רווחה חברתית, דו-חוגי",
+"en": "Social Welfare Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי רווחה חברתית",
+"en": "Social welfare studies"
+},
+"departmentId": 375
+},
+{
+"code": "5903-7900",
+"name": {
+"he": "לימודים משלימים",
+"en": "Supplementary Studies"
+},
+"scope": {
+"he": "לימודים משלימים",
+"en": "Supplementary Studies"
+},
+"department": {
+"he": "מדעי החברה - לימודים משלימים",
+"en": "Social Sciences - Supplementary Studies"
+},
+"departmentId": 462
+},
+{
+"code": "155-1711",
+"name": {
+"he": "לימודים ספרדיים ולטינו אמריקניים, דו-חוגי",
+"en": "Spanish and Latin American Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים ספרדיים ולטינו-אמריקניים",
+"en": "Spanish & Lat. Amer. Studies"
+},
+"departmentId": 34
+},
+{
+"code": "155-1730",
+"name": {
+"he": "לימודים ספרדיים ולטינו אמריקניים, דו-חוגי, הדגש בתרגום",
+"en": "Spanish and Latin American Studies, Dual Major, Translation emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים ספרדיים ולטינו-אמריקניים",
+"en": "Spanish & Lat. Amer. Studies"
+},
+"departmentId": 34
+},
+{
+"code": "172-1815",
+"name": {
+"he": "לימודים קלאסיים, דו-חוגי",
+"en": "Classical Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים קלאסיים",
+"en": "Classical Studies"
+},
+"departmentId": 40
+},
+{
+"code": "172-1813",
+"name": {
+"he": "לימודים קלאסיים, דו-חוגי, יוונית",
+"en": "Classical studies, Dual Major, Greek"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים קלאסיים",
+"en": "Classical Studies"
+},
+"departmentId": 40
+},
+{
+"code": "172-1814",
+"name": {
+"he": "לימודים קלאסיים, דו-חוגי, רומית",
+"en": "Classical studies, Dual Major, Roman"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים קלאסיים",
+"en": "Classical Studies"
+},
+"departmentId": 40
+},
+{
+"code": "179-1703",
+"name": {
+"he": "לימודים רומאניים, דו-חוגי",
+"en": "Romance Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רומאניים",
+"en": "Romance  Studies"
+},
+"departmentId": 43
+},
+{
+"code": "179-1726",
+"name": {
+"he": "לימודים רומאניים, דו-חוגי, בוגר מדור לימודים איטלקיים",
+"en": "Romance Studies, Dual Major, with specialization in Italian"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רומאניים",
+"en": "Romance  Studies"
+},
+"departmentId": 43
+},
+{
+"code": "179-1734",
+"name": {
+"he": "לימודים רומאניים, דו-חוגי, בוגר צרפתית",
+"en": "Romance Studies, Dual Major, with specialization in French"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רומאניים",
+"en": "Romance  Studies"
+},
+"departmentId": 43
+},
+{
+"code": "179-1729",
+"name": {
+"he": "לימודים רומאניים, דו-חוגי, הדגש בתרגום",
+"en": "Romance studies, Dual Major, Translation emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רומאניים",
+"en": "Romance  Studies"
+},
+"departmentId": 43
+},
+{
+"code": "156-1708",
+"name": {
+"he": "לימודים רוסיים וסלאוויים, דו-חוגי",
+"en": "Russian and Slavic Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רוסיים וסלאוויים",
+"en": "Russian and Slavic Studies"
+},
+"departmentId": 35
+},
+{
+"code": "156-1710",
+"name": {
+"he": "לימודים רוסיים וסלאוויים, דו-חוגי, הדגש בתרגום",
+"en": "Russian and Slavic studies, Dual Major, translation emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים רוסיים וסלאוויים",
+"en": "Russian and Slavic Studies"
+},
+"departmentId": 35
+},
+{
+"code": "141-1419",
+"name": {
+"he": "מדע הדתות, דו-חוגי",
+"en": "Comparative Religion, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדע הדתות",
+"en": "Comparative Religion"
+},
+"departmentId": 23
+},
+{
+"code": "311-7200",
+"name": {
+"he": "מדע המדינה, דו-חוגי",
+"en": "Political Science, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדע המדינה",
+"en": "Political Science"
+},
+"departmentId": 93
+},
+{
+"code": "311-1221",
+"name": {
+"he": "מדע המדינה, דו-חוגי בשילוב חינוך, הדגש במנהיגות חינוכית חברתית",
+"en": "Political Science, Dual-Major, combined with Education, Leadership emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדע המדינה",
+"en": "Political Science"
+},
+"departmentId": 93
+},
+{
+"code": "311-7201",
+"name": {
+"he": "מדע המדינה, חד-חוגי, עם לימודים משלימים",
+"en": "Political Science, Single Major, with Supplementary Studies"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדע המדינה",
+"en": "Political Science"
+},
+"departmentId": 93
+},
+{
+"code": "718-9514",
+"name": {
+"he": "מדעי בעלי החיים וביוטכנולוגיה, חד-חוגי",
+"en": "Animal Sciences and Biotechnology, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "718-1918",
+"name": {
+"he": "מדעי בעלי החיים, דו-חוגי, בשילוב כלכלת סביבה וניהול",
+"en": "Animal Sciences, dual-major, with Environmental Economics and Management"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "718-1810",
+"name": {
+"he": "מדעי בעלי החיים, חד-חוגי",
+"en": "Animal Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "718-1801",
+"name": {
+"he": "מדעי בעלי החיים, חד-חוגי, חטיבה באיכות הסביבה",
+"en": "Animal Sciences, single-major, with Environmental Quality module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "718-2618",
+"name": {
+"he": "מדעי בעלי החיים, חד-חוגי, חטיבת שמירת טבע ומנהל שטחים פתוחים",
+"en": "Animal Sciences, single-major, with Nature Conservation and Landscape Management module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "718-2518",
+"name": {
+"he": "מדעי בעלי החיים, חד-חוגי, עם חטיבה באגרו-אינפורמטיקה",
+"en": "Animal Sciences, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי בעלי החיים",
+"en": "Animal Sciences"
+},
+"departmentId": 272
+},
+{
+"code": "570-4011",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב חוג ממדעי הטבע",
+"en": "Life Sciences, dual-major, with additional Science major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4013",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב חוג ממדעי הרוח/החברה",
+"en": "Life Sciences, dual-major,with major in Humanities/Social Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-8032",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב מדעי הסביבה",
+"en": "Life Sciences, dual-major, with Environmental Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4025",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Life Sciences, dual-major, with Cognitive Science and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4026",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב מדעי הקוגניציה והמוח, תכנית אתגר",
+"en": "Life Sciences, dual-major, with Cognitive and Brain Sciences, Etgar"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-8029",
+"name": {
+"he": "מדעי החיים, דו-חוגי, בשילוב מדעי כדור הארץ",
+"en": "Life Sciences, dual-major, with Earth Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4021",
+"name": {
+"he": "מדעי החיים, דו-חוגי, תכנית אתגר",
+"en": "Life Sciences, dual-major, Etgar track"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4010",
+"name": {
+"he": "מדעי החיים, חד-חוגי",
+"en": "Life Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4012",
+"name": {
+"he": "מדעי החיים, חד-חוגי, עם חטיבה",
+"en": "Life Sciences, singal-major, with module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4020",
+"name": {
+"he": "מדעי החיים, חד-חוגי, תכנית אתגר",
+"en": "Life Sciences, single-major, Etgar track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "570-4019",
+"name": {
+"he": "מדעי החיים, חד-חוגי, תכנית אתגר עם חטיבה",
+"en": "Life Sciences, singal-major, with module, Etgar"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "115-1510",
+"name": {
+"he": "מדעי היהדות, דו-חוגי",
+"en": "Jewish Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי היהדות",
+"en": "Jewish Studies"
+},
+"departmentId": 11
+},
+{
+"code": "115-1425",
+"name": {
+"he": "מדעי היהדות, דו-חוגי, בשילוב מקרא, תוכנית רביבים",
+"en": "Jewish Studies, dual-major, with Bible, Revivim Program"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי היהדות",
+"en": "Jewish Studies"
+},
+"departmentId": 11
+},
+{
+"code": "566-8053",
+"name": {
+"he": "מדעי הכימיה והביולוגיה, חד-חוגי",
+"en": "Chemistry and Life Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הכימיה והביולוגיה",
+"en": "Chemistry & Life Sciences"
+},
+"departmentId": 200
+},
+{
+"code": "566-8055",
+"name": {
+"he": "מדעי הכימיה והביולוגיה, חד-חוגי, תוכנית משולבת, הדגש ביולוגיה",
+"en": "Chemistry and Biology Sciences, Single Major, combined program, Biology Emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הכימיה והביולוגיה",
+"en": "Chemistry & Life Sciences"
+},
+"departmentId": 200
+},
+{
+"code": "566-8054",
+"name": {
+"he": "מדעי הכימיה והביולוגיה, חד-חוגי, תוכנית משולבת, הדגש כימיה",
+"en": "Chemistry and Biology Sciences, Single Major, combined program, Chemistry emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הכימיה והביולוגיה",
+"en": "Chemistry & Life Sciences"
+},
+"departmentId": 200
+},
+{
+"code": "521-3017",
+"name": {
+"he": "מדעי המחשב דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+"en": "Computer Sciences, dual-major, with Statistics and Data Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "532-3080",
+"name": {
+"he": "מדעי המחשב וביולוגיה חישובית, חד-חוגי",
+"en": "Computer Science and Computational Biology, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב וביולוגיה חישובית",
+"en": "Computer Science & Computational Biology"
+},
+"departmentId": 186
+},
+{
+"code": "532-3079",
+"name": {
+"he": "מדעי המחשב וביולוגיה חישובית, חד-חוגי, עם דגש בבינה מלאכותית",
+"en": "Computer Science and Computational Biology, single-major, with Artificial intelligence emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב וביולוגיה חישובית",
+"en": "Computer Science & Computational Biology"
+},
+"departmentId": 186
+},
+{
+"code": "521-3013",
+"name": {
+"he": "מדעי המחשב חד-חוגי, עם דגש במתמטיקה",
+"en": "Computer Science, Single Major, with Mathematics emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3011",
+"name": {
+"he": "מדעי המחשב, דו-חוגי",
+"en": "Computer Sciences, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3091",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב בינה מלאכותית",
+"en": "Computer Science, dual-major, with Artificial Intelligence"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3012",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב בלשנות",
+"en": "Computer Sciences, dual-major, with Linguistics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-5025",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב כימיה",
+"en": "Computer Sciences, dual-major, with Chemistry"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3020",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב כלכלה",
+"en": "Computer Sciences, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3021",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Computer Sciences, dual-major, with Cognitive and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-8011",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב מדעי כדור הארץ",
+"en": "Computer Sciences, dual-major, with Earth Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3084",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "Computer Sciences, dual-major, with MATAR - Interfaces of Technology, Society and Networks"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-8014",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב מתמטיקה",
+"en": "Computer Sciences, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3014",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים (עתודה)",
+"en": "Computer Sciences, dual-major, with Statistics and Data Science (Atuda)"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-8015",
+"name": {
+"he": "מדעי המחשב, דו-חוגי, בשילוב פיסיקה",
+"en": "Computer Sciences, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3010",
+"name": {
+"he": "מדעי המחשב, חד-חוגי",
+"en": "Computer Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3015",
+"name": {
+"he": "מדעי המחשב, חד-חוגי, עם דגש בבינה מלאכותית",
+"en": "Computer Science, single-major, with Artificial Intelligence emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "521-3009",
+"name": {
+"he": "מדעי המחשב, חד-חוגי, עם חטיבה",
+"en": "Computer Sciences, single-major, with module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "591-8040",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב גאוגרפיה סביבה וגיאואינפורמטיקה",
+"en": "Environmental Sciences, dual-major, with Geography, Environment and Geoinformatics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-8033",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב כימיה",
+"en": "Environmental Sciences, dual-major, with Chemistry"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-8032",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב מדעי החיים",
+"en": "Environmental Sciences, dual-major, with Life Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-8037",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב מדעי כדור הארץ",
+"en": "Environmental Sciences, dual-major, with Earth Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-6017",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב מדעי כדור הארץ בהתמחות א.א.א",
+"en": "Environmental Sciences, Dual-Major, combined with Earth Sciences, specialization in C.O.A"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-6018",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב מדעי כדור הארץ בהתמחות גאולוגיה",
+"en": "Environmental Sciences, Dual-Major, combined with Earth Sciences, specialization in Geology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-8034",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, בשילוב פיסיקה",
+"en": "Environmental Sciences, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "591-8038",
+"name": {
+"he": "מדעי הסביבה, דו-חוגי, לתלמידים שאינם ממדעי הטבע",
+"en": "Environmental Sciences, dual-major,for students from faculties other than Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הסביבה",
+"en": "Environmental Sciences"
+},
+"departmentId": 221
+},
+{
+"code": "710-9511",
+"name": {
+"he": "מדעי הצמח בחקלאות וביוטכנולוגיה, חד-חוגי",
+"en": "Plant Sciences in Agriculture and Biotechnology, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "710-2510",
+"name": {
+"he": "מדעי הצמח בחקלאות חד-חוגי, עם התמחות באגרו-אינפורמטיקה",
+"en": "Plant Science in Agriculture, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "710-1910",
+"name": {
+"he": "מדעי הצמח בחקלאות, דו-חוגי, בשילוב כלכלת סביבה וניהול",
+"en": "Plant Science in Agriculture, dual-major, with Environmental Economics and Management"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "710-1010",
+"name": {
+"he": "מדעי הצמח בחקלאות, חד-חוגי",
+"en": "Plant Science in Agriculture, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "710-1011",
+"name": {
+"he": "מדעי הצמח בחקלאות, חד-חוגי, עם חטיבה באיכות הסביבה",
+"en": "Plant Science in Agriculture, single-major, with Environmental Quality module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "710-2610",
+"name": {
+"he": "מדעי הצמח בחקלאות, חד-חוגי, עם חטיבה בשמירת טבע ומנהל שטחים פתוחים",
+"en": "Plant Science in Agriculture, single-major, with Nature Conservation and Landscape Management module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הצמח בחקלאות",
+"en": "Plant Science in Agriculture"
+},
+"departmentId": 265
+},
+{
+"code": "143-1530",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי",
+"en": "Cognitive and Brain Sciences, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-3021",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב  מדעי המחשב",
+"en": "Cognitive Science and Brain Sciences, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-3095",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב בינה מלאכותית",
+"en": "Cognitive and Brain Sciences, dual-major, with Artificial Intelligence"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-4025",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב מדעי החיים",
+"en": "Cognitive Science and Brain Sciences, dual-major, with Life Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-4026",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב מדעי החיים - תכנית אתגר",
+"en": "Cognitive and Brain Sciences, dual-major, with Life Sciences Etgar"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-1023",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב מתמטיקה",
+"en": "Cognitive and Brain Sciences, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-2025",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב פיסיקה",
+"en": "Cognitive and Brain Sciences, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-7009",
+"name": {
+"he": "מדעי הקוגניציה והמוח, דו-חוגי, בשילוב פסיכולוגיה",
+"en": "Cognitive and Brain Sciences, dual-major, with Psychology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "143-1531",
+"name": {
+"he": "מדעי הקוגניציה והמוח, חד-חוגי, תואר כפול עם בצלאל",
+"en": "Cognitive Science and Brain Sciences, Single Major, Undergraduate, combined program with Bezalel"
+},
+"scope": {
+"he": "תואר כפול עם מוסד אחר",
+"en": "Double degree with other institution"
+},
+"department": {
+"he": "מדעי הקוגניציה והמוח",
+"en": "Cognitive and Brain Sciences"
+},
+"departmentId": 25
+},
+{
+"code": "716-2516",
+"name": {
+"he": "מדעי הקרקע והמים חד-חוגי, עם חטיבה באגרו-אינפורמטיקה",
+"en": "Soil and Water Sciences, single-major, with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הקרקע והמים",
+"en": "Soil and Water Sciences"
+},
+"departmentId": 270
+},
+{
+"code": "716-1916",
+"name": {
+"he": "מדעי הקרקע והמים, דו-חוגי, בשילוב כלכלת סביבה וניהול",
+"en": "Soil and Water Sciences, dual-major, with Environmental Economics and Management"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי הקרקע והמים",
+"en": "Soil and Water Sciences"
+},
+"departmentId": 270
+},
+{
+"code": "716-1610",
+"name": {
+"he": "מדעי הקרקע והמים, חד-חוגי",
+"en": "Soil and Water Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הקרקע והמים",
+"en": "Soil and Water Sciences"
+},
+"departmentId": 270
+},
+{
+"code": "716-1601",
+"name": {
+"he": "מדעי הקרקע והמים, חד-חוגי, חטיבה באיכות הסביבה",
+"en": "Soil and Water Sciences, single-major, with Nature Conservation and Landscape Management module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי הקרקע והמים",
+"en": "Soil and Water Sciences"
+},
+"departmentId": 270
+},
+{
+"code": "712-1212",
+"name": {
+"he": "מדעי התזונה, חד-חוגי, ארבע שנתי",
+"en": "Nutritional Sciences, single-major, 4 years program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי התזונה",
+"en": "Nutrition Sciences"
+},
+"departmentId": 266
+},
+{
+"code": "712-1225",
+"name": {
+"he": "מדעי התזונה, חד-חוגי, עם חטיבה באגרו-אינפורמטיקה, ארבע שנתי",
+"en": "Nutrition Sciences, single-major, 4-year program with Agroinformatics module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי התזונה",
+"en": "Nutrition Sciences"
+},
+"departmentId": 266
+},
+{
+"code": "595-6021",
+"name": {
+"he": "מדעי כדור הארץ, בהתמחות גיאולוגיה, דו-חוגי, בשילוב פיסיקה",
+"en": "Earth Sciences, specialization Geology, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6015",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי",
+"en": "Earth Sciences, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5959",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בהתמחות א.א.א",
+"en": "Earth Sciences, Dual Major, specialization in C.O.A"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-8008",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב כימיה",
+"en": "Earth Sciences, dual-major, with Chemistry"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-8029",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב מדעי החיים",
+"en": "Earth Sciences, dual-major, with Life Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-8011",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Earth Sciences, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-8037",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב מדעי הסביבה",
+"en": "Earth Sciences, dual-major, with Environmental Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6017",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב מדעי הסביבה בהתמחות א.א.א",
+"en": "Environmental Sciences, Dual-Major, combined with Earth Sciences, specialization in C.O.A"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6018",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב מדעי הסביבה בהתמחות גאולוגיה",
+"en": "Environmental Sciences, Dual-Major, combined with Earth Sciences, specialization in Geology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6020",
+"name": {
+"he": "מדעי כדור הארץ, דו-חוגי, בשילוב פיסיקה",
+"en": "Earth Sciences, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6014",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי",
+"en": "Earth Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5961",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות א.א.א, עם חטיבה",
+"en": "Earth Sciences, Single Major, specialization in C.O.A with section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5957",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות באקלים, אטמוספירה ואוקיינוגרפיה",
+"en": "Earth Sciences, Single Major, specialization in Climate, Atmosphere and Oceanography"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5956",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות בגיאולוגיה",
+"en": "Earth Sciences, Single-Major, specialization in Geology"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5958",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות בגיאולוגיה",
+"en": "Earth Sciences, Single-Major, specialization in Geology"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-5960",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות בגיאולוגיה, עם חטיבה",
+"en": "Earth Sciences, Single Major, specialization in Geology with section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6019",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, בהתמחות גאולוגיה ו-א.א.א",
+"en": "Earth Sciences, Single Major, specialization in Geology and C.O.A"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "595-6022",
+"name": {
+"he": "מדעי כדור הארץ, חד-חוגי, עם חטיבה",
+"en": "Earth Sciences, single-major with specialization"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי כדור הארץ",
+"en": "Earth Sciences"
+},
+"departmentId": 225
+},
+{
+"code": "602-6206",
+"name": {
+"he": "מדעים ביו-רפואיים, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+"en": "Bio Medical Sciences, dual-major, with Statistics and Data Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "602-8602",
+"name": {
+"he": "מדעים ביורפואיים, חד-חוגי",
+"en": "Bio-Medical Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "602-6204",
+"name": {
+"he": "מדעים ביורפואיים, חד-חוגי, מסלול במדב\"ר שנים ב-ג, בדגש גנטיקה וגנומיקה",
+"en": "Biomedical Sciences, Single Major, second-third years, genetics and genomics track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "602-6201",
+"name": {
+"he": "מדעים ביורפואיים, חד-חוגי, מסלול במדב\"ר שנים ב-ג, בדגש חקר המח",
+"en": "Biomedical Sciences, Single Major, second-third years, brain research track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "602-6203",
+"name": {
+"he": "מדעים ביורפואיים, חד-חוגי, מסלול במדב\"ר שנים ב-ג, בדגש חקר הסרטן",
+"en": "Biomedical Sciences, Single Major, second-third years, cancer research track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "602-6202",
+"name": {
+"he": "מדעים ביורפואיים, חד-חוגי, מסלול במדב\"ר שנים ב-ג, בדגש מיקרואורגניזם",
+"en": "Biomedical Sciences, Single Major, second-third years, Microorganisms track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעים ביו-רפואיים",
+"en": "Bio-Medical Sciences"
+},
+"departmentId": 230
+},
+{
+"code": "199-1940",
+"name": {
+"he": "מוסיקולוגיה, דו-חוגי",
+"en": "Musicology, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מוסיקולוגיה",
+"en": "Musicology"
+},
+"departmentId": 54
+},
+{
+"code": "113-1440",
+"name": {
+"he": "מחשבת ישראל, דו-חוגי",
+"en": "Jewish Thought, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מחשבת ישראל",
+"en": "Jewish Thought"
+},
+"departmentId": 9
+},
+{
+"code": "525-3083",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות דו-חוגי, בשילוב חוג ניסויי",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with an experimental major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3032",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב חוג עיוני",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with a theoretical major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3033",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב כלכלה",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3084",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב מדעי המחשב",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3035",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב מנהל עסקים",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with Business Administration"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3036",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with Statistics and Data Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "525-3034",
+"name": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות, דו-חוגי, בשילוב תקשורת ועיתונות",
+"en": "MATAR - Interfaces of Technology, Society and Networks, dual-major, with Communication and Journalism"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "MATAR - Interfaces of Technology, Society, and N"
+},
+"departmentId": 182
+},
+{
+"code": "322-3221",
+"name": {
+"he": "מנהל עסקים, דו-חוגי",
+"en": "Business Administration, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מנהל עסקים",
+"en": "Business Administration"
+},
+"departmentId": 102
+},
+{
+"code": "322-3226",
+"name": {
+"he": "מנהל עסקים, דו-חוגי, בשילוב חשבונאות",
+"en": "Business Administration, dual-major, with Accounting"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מנהל עסקים",
+"en": "Business Administration"
+},
+"departmentId": 102
+},
+{
+"code": "322-3253",
+"name": {
+"he": "מנהל עסקים, דו-חוגי, בשילוב כלכלה",
+"en": "Business Administration, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מנהל עסקים",
+"en": "Business Administration"
+},
+"departmentId": 102
+},
+{
+"code": "322-3035",
+"name": {
+"he": "מנהל עסקים, דו-חוגי, בשילוב מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "Business Administration, dual-major, with MATAR - Interfaces of Technology, Society and Networks"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מנהל עסקים",
+"en": "Business Administration"
+},
+"departmentId": 102
+},
+{
+"code": "101-1420",
+"name": {
+"he": "מקרא, דו-חוגי",
+"en": "Bible, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מקרא",
+"en": "Bible"
+},
+"departmentId": 1
+},
+{
+"code": "101-1425",
+"name": {
+"he": "מקרא, דו-חוגי, בשילוב מדעי היהדות, תוכנית רביבים",
+"en": "Bible, dual-major, with Jewish Studies, Revivim Program"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מקרא",
+"en": "Bible"
+},
+"departmentId": 1
+},
+{
+"code": "401-4100",
+"name": {
+"he": "משפטים, חד-חוגי",
+"en": "Law, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4950",
+"name": {
+"he": "משפטים, חד-חוגי בתואר כפול, בשילוב עבודה סוציאלית",
+"en": "Law, single-major as double degree, with Social Work"
+},
+"scope": {
+"he": "חד-חוגי בתואר כפול",
+"en": "Single-major as double degree"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4962",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר",
+"en": "Law, single-major with additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4957",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב אמירים מדעי הרוח",
+"en": "Law, single-major with additional major, with Amirim Honors Program"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4958",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב היסטוריה",
+"en": "Law, single-major with additional major, with History"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4952",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב חשבונאות",
+"en": "Law, single-major with additional major, with Accounting"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4953",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב יחסים בין-לאומיים",
+"en": "Law, single-major with additional major, with International Relations"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4951",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב כלכלה",
+"en": "Law, single-major with additional major, with Economics"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4955",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב מדע המדינה",
+"en": "Law, single-major with additional major, with Political Science"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4959",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב פילוסופיה",
+"en": "Law, single-major with additional major, with Philosophy"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4954",
+"name": {
+"he": "משפטים, חד-חוגי עם חוג נוסף לתואר, בשילוב פסיכולוגיה",
+"en": "Law, single-major with additional major, with Psychology"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "402-4101",
+"name": {
+"he": "משפטים, חד-חוגי, בתואר כפול עם עבודה סוציאלית",
+"en": "Law, Single Major, in double degree combined with social work"
+},
+"scope": {
+"he": "חד-חוגי בתואר כפול",
+"en": "Single-major as double degree"
+},
+"department": {
+"he": "משפטים עם חוג נוסף לתואר",
+"en": "Law - LL.B. with an Additional Major"
+},
+"departmentId": 140
+},
+{
+"code": "401-4963",
+"name": {
+"he": "משפטים, חד-חוגי, בתכנית מכפיל עם כלכלה כחוג נוסף לתואר",
+"en": "Law, Single Major, MACHPIL program, with additional major in Economics"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "401-4964",
+"name": {
+"he": "משפטים, חד-חוגי, בתכנית מכפיל עם פילוסופיה כחוג נוסף לתואר",
+"en": "Law, Single Major, MACHPIL program, with additional major in Philosophy"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "402-4600",
+"name": {
+"he": "משפטים, חד-חוגי, עם חוג נוסף לתואר",
+"en": "Law, Single-Major, combined with an additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים עם חוג נוסף לתואר",
+"en": "Law - LL.B. with an Additional Major"
+},
+"departmentId": 140
+},
+{
+"code": "401-4960",
+"name": {
+"he": "משפטים, חד-חוגי, עם חוג נוסף לתואר, תוכנית מכפיל",
+"en": "Law, Single-Major, combined with an additional major, MACHPIL program"
+},
+"scope": {
+"he": "חד-חוגי בתוכנית מכפיל",
+"en": "Single-major for MACHPIL"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "402-4115",
+"name": {
+"he": "משפטים, חד-חוגי, עם כלכלה כחוג נוסף לתואר",
+"en": "Law, Single-Major, combined with Economics as an additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים עם חוג נוסף לתואר",
+"en": "Law - LL.B. with an Additional Major"
+},
+"departmentId": 140
+},
+{
+"code": "401-4956",
+"name": {
+"he": "משפטים, חד-חוגי, עם מנהל עסקים כחוג נוסף לתואר",
+"en": "Law, Single-Major, combined with Business Administration as an additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "402-4116",
+"name": {
+"he": "משפטים, חד-חוגי, עם פילוסופיה כחוג נוסף לתואר",
+"en": "Law, Single-Major, combined with Philosophy as an additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים עם חוג נוסף לתואר",
+"en": "Law - LL.B. with an Additional Major"
+},
+"departmentId": 140
+},
+{
+"code": "530-3092",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב בינה מלאכותית",
+"en": "Mathematics, dual-major, with  Artificial Intelligence"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1011",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב חוג ממדעי הטבע",
+"en": "Mathematics, dual-major, with additional Science major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1024",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב חוג ממדעי הרוח/החברה",
+"en": "Mathematics, dual-major, with major in Humanities/Social Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1021",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב כלכלה",
+"en": "Mathematics, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-8014",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Mathematics, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1023",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Mathematics, dual-major, with Cognitive and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1025",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+"en": "Mathematics, dual-major, with Statistics and Data Science"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-8013",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה",
+"en": "Mathematics, dual-major, with Physics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-8010",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש מתמטיקה",
+"en": "Mathematics, dual-major, with Physics- Mathematics emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-8012",
+"name": {
+"he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש פיסיקה",
+"en": "Mathematics, dual-major, with Physics- Physics emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1010",
+"name": {
+"he": "מתמטיקה, חד-חוגי",
+"en": "Mathematics, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1020",
+"name": {
+"he": "מתמטיקה, חד-חוגי, מגמת הוראה",
+"en": "Mathematics, Single Major, Teaching section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "530-1012",
+"name": {
+"he": "מתמטיקה, חד-חוגי, עם חטיבה",
+"en": "Mathematics, single-major, with module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "301-7100",
+"name": {
+"he": "סוציולוגיה ואנתרופולוגיה, דו-חוגי",
+"en": "Sociology and Anthropology, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סוציולוגיה ואנתרופולוגיה",
+"en": "Sociology & Anthropology"
+},
+"departmentId": 83
+},
+{
+"code": "301-1222",
+"name": {
+"he": "סוציולוגיה ואנתרופולוגיה, דו-חוגי, בשילוב חינוך",
+"en": "Sociology and Anthropology, Dual Major, combined with Education"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סוציולוגיה ואנתרופולוגיה",
+"en": "Sociology & Anthropology"
+},
+"departmentId": 83
+},
+{
+"code": "301-7140",
+"name": {
+"he": "סוציולוגיה ואנתרופולוגיה, דו-חוגי, מסלול מצויינות",
+"en": "Sociology and Anthropology, Dual Major, excellence track"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סוציולוגיה ואנתרופולוגיה",
+"en": "Sociology & Anthropology"
+},
+"departmentId": 83
+},
+{
+"code": "301-7101",
+"name": {
+"he": "סוציולוגיה ואנתרופולוגיה, חד-חוגי עם משלימים",
+"en": "Sociology and Anthropology, Single-Major, with Additional Studies"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "סוציולוגיה ואנתרופולוגיה",
+"en": "Sociology & Anthropology"
+},
+"departmentId": 83
+},
+{
+"code": "301-7141",
+"name": {
+"he": "סוציולוגיה ואנתרופולוגיה, חד-חוגי עם משלימים, מסלול מצויינות",
+"en": "Sociology and Anthropology, Single-Major, with Additional Studies, excellence track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "סוציולוגיה ואנתרופולוגיה",
+"en": "Sociology & Anthropology"
+},
+"departmentId": 83
+},
+{
+"code": "824-7410",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי",
+"en": "Statistics and Data Science, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-7411",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב כלכלה",
+"en": "Statistics and Data Science, dual-major, with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-3017",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Statistics and Data Science, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-3014",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב מדעי המחשב (עתודה)",
+"en": "Statistics and Data Science, dual-major, with Computer Sciences (Atuda)"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-3036",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב מט\"ר - ממשקי טכנולוגיה, חברה ורשתות",
+"en": "Statistics and Data Science, dual-major, with MATAR - Interfaces of Technology, Society and Networks"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-1025",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב מתמטיקה",
+"en": "Statistics and Data Science, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "824-7441",
+"name": {
+"he": "סטטיסטיקה ומדע הנתונים, חד-חוגי עם משלימים",
+"en": "Statistics and Data Science, Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "סטטיסטיקה ומדע הנתונים",
+"en": "Statistics and Data Science"
+},
+"departmentId": 314
+},
+{
+"code": "608-5608",
+"name": {
+"he": "סיעוד, חד-חוגי, שלוחת אסף הרופא",
+"en": "Nursing - Assaf Harofeh, Single-Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות (סיעוד) - \"אסף הרופא\"",
+"en": "Nursing - Asaf Harofeh"
+},
+"departmentId": 234
+},
+{
+"code": "610-5610",
+"name": {
+"he": "סיעוד, חד-חוגי, שלוחת קפלן",
+"en": "Nursing - Kaplan, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "אחיות )סיעוד( - \"קפלן\"",
+"en": "Nursing - Kaplan"
+},
+"departmentId": 236
+},
+{
+"code": "180-1801",
+"name": {
+"he": "ספרות כללית והשוואתית, דו-חוגי",
+"en": "General and Comparative Literature, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות כללית והשוואתית",
+"en": "General & Compar. Literature"
+},
+"departmentId": 44
+},
+{
+"code": "180-1857",
+"name": {
+"he": "ספרות כללית והשוואתית, דו-חוגי, הדגש בתרגום ללא שפה זרה",
+"en": "General and Comparative Literature, Dual Major, translation emphasis without foreign language"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות כללית והשוואתית",
+"en": "General & Compar. Literature"
+},
+"departmentId": 44
+},
+{
+"code": "180-1858",
+"name": {
+"he": "ספרות כללית והשוואתית, דו-חוגי, הדגש בתרגום עם שפה זרה",
+"en": "General and Comparative Literature, Dual Major, translation emphasis with foreign language"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות כללית והשוואתית",
+"en": "General & Compar. Literature"
+},
+"departmentId": 44
+},
+{
+"code": "180-1802",
+"name": {
+"he": "ספרות כללית והשוואתית, דו-חוגי, הדגש כתיבה יוצרת ללא שפה זרה",
+"en": "General and Comparative Literature, Dual Major, creative writing emphasis, without language"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות כללית והשוואתית",
+"en": "General & Compar. Literature"
+},
+"departmentId": 44
+},
+{
+"code": "180-1803",
+"name": {
+"he": "ספרות כללית והשוואתית, דו-חוגי, הדגש כתיבה יוצרת עם שפה זרה",
+"en": "General and Comparative Literature, Dual Major, creative writing emphasis, with foreign language"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות כללית והשוואתית",
+"en": "General & Compar. Literature"
+},
+"departmentId": 44
+},
+{
+"code": "108-1840",
+"name": {
+"he": "ספרות עברית, דו-חוגי",
+"en": "Hebrew Literature, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות עברית",
+"en": "Hebrew Literature"
+},
+"departmentId": 5
+},
+{
+"code": "108-1843",
+"name": {
+"he": "ספרות עברית, דו-חוגי, הדגש בכתיבה יוצרת",
+"en": "Hebrew literature, Dual Major, emphasis on creative writing"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות עברית",
+"en": "Hebrew Literature"
+},
+"departmentId": 5
+},
+{
+"code": "108-1704",
+"name": {
+"he": "ספרות עברית, דו-חוגי, הדגש בתרגום עם שפה זרה",
+"en": "Hebrew Literature, Dual Major, translation- foreign language"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "ספרות עברית",
+"en": "Hebrew Literature"
+},
+"departmentId": 5
+},
+{
+"code": "431-9321",
+"name": {
+"he": "עבודה סוציאלית, חד-חוגי",
+"en": "Social Work, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "עבודה סוציאלית",
+"en": "Social Work"
+},
+"departmentId": 156
+},
+{
+"code": "431-9322",
+"name": {
+"he": "עבודה סוציאלית, חד-חוגי עם חוג נוסף לתואר",
+"en": "Social Work, single-major with additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "עבודה סוציאלית",
+"en": "Social Work"
+},
+"departmentId": 156
+},
+{
+"code": "431-9311",
+"name": {
+"he": "עבודה סוציאלית, חד-חוגי, מסלול פרטני",
+"en": "Social Work, Single Major, individual track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "עבודה סוציאלית",
+"en": "Social Work"
+},
+"departmentId": 156
+},
+{
+"code": "431-9312",
+"name": {
+"he": "עבודה סוציאלית, חד-חוגי, מסלול קהילתי",
+"en": "Social Work, Single Major, community track"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "עבודה סוציאלית",
+"en": "Social Work"
+},
+"departmentId": 156
+},
+{
+"code": "431-9482",
+"name": {
+"he": "עבודה סוציאלית, חד-חוגי, תואר כפול עם משפטים",
+"en": "Social Work, single-major as double degree, with Law"
+},
+"scope": {
+"he": "חד-חוגי בתואר כפול",
+"en": "Single-major as double degree"
+},
+"department": {
+"he": "עבודה סוציאלית",
+"en": "Social Work"
+},
+"departmentId": 156
+},
+{
+"code": "140-4116",
+"name": {
+"he": "פילוסופיה כחוג נוסף לתואר",
+"en": "Philosophy as an additional major"
+},
+"scope": {
+"he": "חוג נוסף לתואר",
+"en": "Additional major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "140-4114",
+"name": {
+"he": "פילוסופיה כחוג נוסף לתואר בתוכנית מכפיל",
+"en": "Philosophy as an additional major, MACHPIL program"
+},
+"scope": {
+"he": "חוג נוסף לתואר",
+"en": "Additional major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "140-1402",
+"name": {
+"he": "פילוסופיה, דו-חוגי",
+"en": "Philosophy, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "326-7805",
+"name": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ), חד חוגי, תחום הרחבה: כלכלה",
+"en": "Philosophy Economics and Political Science, Single Major, combined program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ)",
+"en": "Philosophy, Economics &Political Science"
+},
+"departmentId": 105
+},
+{
+"code": "326-7800",
+"name": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ), חד-חוגי",
+"en": "Philosophy, Economics and Political Science, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ)",
+"en": "Philosophy, Economics &Political Science"
+},
+"departmentId": 105
+},
+{
+"code": "326-7801",
+"name": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ), חד-חוגי, עם חוג נוסף לתואר",
+"en": "Philosophy, Economics and Political Science, single-major with additional major"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ)",
+"en": "Philosophy, Economics &Political Science"
+},
+"departmentId": 105
+},
+{
+"code": "326-7807",
+"name": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ), חד-חוגי, תחום הרחבה: מדע המדינה",
+"en": "Philosophy Economics and Political Science, Single Major, combined program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ)",
+"en": "Philosophy, Economics &Political Science"
+},
+"departmentId": 105
+},
+{
+"code": "326-7806",
+"name": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ), חד-חוגי, תחום הרחבה: פילוסופיה",
+"en": "Philosophy Economics and Political Science, Single Major, combined program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פילוסופיה, כלכלה, מדע המדינה (פכ\"מ)",
+"en": "Philosophy, Economics &Political Science"
+},
+"departmentId": 105
+},
+{
+"code": "541-2020",
+"name": {
+"he": "פיסיקה, דו-חוגי",
+"en": "Physics, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-3093",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב בינה מלאכותית",
+"en": "Physics, dual-major, with Artificial Intelligence"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-8015",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מדעי המחשב",
+"en": "Physics, dual-major, with Computer Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-8034",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מדעי הסביבה",
+"en": "Physics, Dual-Major, combined with Environmental Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-2025",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Physics, dual-major, with Cognitive and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-6020",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מדעי כדור הארץ",
+"en": "Physics, dual-major, with Earth Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-6021",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מדעי כדור הארץ, בהתמחות גיאולוגיה",
+"en": "Physics, Dual-Major, with Earth Sciences, specialization in Geology"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-8013",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה",
+"en": "Physics, dual-major, with Mathematics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-8010",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה בדגש מתמטיקה",
+"en": "Physics, dual-major, with Mathematics- Mathematics emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-8012",
+"name": {
+"he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה בדגש פיסיקה",
+"en": "Physics, dual-major, with Mathematics- Physics emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-2010",
+"name": {
+"he": "פיסיקה, חד-חוגי",
+"en": "Physics, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "541-2011",
+"name": {
+"he": "פיסיקה, חד-חוגי, עם חטיבה",
+"en": "Physics, single-major, with module"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "140-1405",
+"name": {
+"he": "פלוסופיה, דו-חוגי, תוכנית מכפיל",
+"en": "Philosophy, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "570-4024",
+"name": {
+"he": "פסיכוביולוגיה",
+"en": "Psychology and Life Sciences"
+},
+"scope": {
+"he": "פסיכוביולוגיה",
+"en": "Psychobiology"
+},
+"department": {
+"he": "מדעי החיים",
+"en": "Life Sciences"
+},
+"departmentId": 204
+},
+{
+"code": "300-7888",
+"name": {
+"he": "פסיכולוגיה כחוג לאחר תואר",
+"en": ""
+},
+"scope": {
+"he": "חוג לאחר תואר",
+"en": "Additional major post-degree"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7005",
+"name": {
+"he": "פסיכולוגיה, דו חוגי, הדגש בפסיכולוגיה חברתית קוגניטיבית",
+"en": "Psychology, Dual Major, Social Cognitive Psychology Cluster"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7006",
+"name": {
+"he": "פסיכולוגיה, דו חוגי, הדגש חוסן ומניעת התמכרויות",
+"en": "Psychology, Dual Major, Resilience and addiction Prevention Cluster"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7000",
+"name": {
+"he": "פסיכולוגיה, דו-חוגי",
+"en": "Psychology, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7009",
+"name": {
+"he": "פסיכולוגיה, דו-חוגי, בשילוב מדעי הקוגניציה והמוח",
+"en": "Psychology, dual-major, with Cognitive and Brain Sciences"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7002",
+"name": {
+"he": "פסיכולוגיה, דו-חוגי, הדגש בפסיכולוגיה התפתחותית",
+"en": "Psychology, Dual Major, Developmental Psychology emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7004",
+"name": {
+"he": "פסיכולוגיה, דו-חוגי, הדגש בפסיכולוגיה חישובית",
+"en": "Computational psychology cluster, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7003",
+"name": {
+"he": "פסיכולוגיה, דו-חוגי, הדגש רגש בפסיכולוגיה",
+"en": "Psychology, Dual Major, Emotion in Psychology emphasis"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7013",
+"name": {
+"he": "פסיכולוגיה, חד חוגי, הדגש בפסיכולוגיה חברתית קוגניטיבית",
+"en": "Psychology, Single Major, Social Cognitive Psychology Cluster"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7016",
+"name": {
+"he": "פסיכולוגיה, חד חוגי, הדגש חוסן ומניעת התמכרויות",
+"en": "Psychology, Single Major, Resilience and addiction Prevention Cluster"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7011",
+"name": {
+"he": "פסיכולוגיה, חד-חוגי, הדגש בפסיכולוגיה התפתחותית",
+"en": "Psychology, Single-Major, Developmental Psychology emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7014",
+"name": {
+"he": "פסיכולוגיה, חד-חוגי, הדגש בפסיכולוגיה חישובית",
+"en": "Computational psychology cluster, Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7012",
+"name": {
+"he": "פסיכולוגיה, חד-חוגי, הדגש רגש בפסיכולוגיה",
+"en": "Psychology, Single Major, Emotion in Psychology emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "300-7001",
+"name": {
+"he": "פסיכולוגיה, חד-חוגי, עם לימודים משלימים",
+"en": "Psychology, Single Major, with Supplementary Studies"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פסיכולוגיה",
+"en": "Psychology"
+},
+"departmentId": 82
+},
+{
+"code": "318-4024",
+"name": {
+"he": "צירוף פסיכולוגיה ומדעי החיים, חד-חוגי",
+"en": "Psychology with Life Sciences, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "צירוף פסיכולוגיה ומדעי החיים",
+"en": "Psychobiology Program"
+},
+"departmentId": 98
+},
+{
+"code": "411-4920",
+"name": {
+"he": "קרימינולוגיה, דו-חוגי",
+"en": "Criminology, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "קרימינולוגיה",
+"en": "Criminology"
+},
+"departmentId": 148
+},
+{
+"code": "621-3621",
+"name": {
+"he": "רוקחות, חד-חוגי",
+"en": "Pharmacy, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רוקחות",
+"en": "Pharmacy"
+},
+"departmentId": 246
+},
+{
+"code": "621-5617",
+"name": {
+"he": "רוקחות, חד-חוגי, תכנית הסבה",
+"en": "Pharmacy, single-major, Retraining Program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רוקחות",
+"en": "Pharmacy"
+},
+"departmentId": 246
+},
+{
+"code": "621-5620",
+"name": {
+"he": "רוקחות, חד-חוגי, תכנית מצויינות, מסלול מואץ לתואר שלישי",
+"en": "Pharmacy, single-major, Honours Program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רוקחות",
+"en": "Pharmacy"
+},
+"departmentId": 246
+},
+{
+"code": "607-4607",
+"name": {
+"he": "ריפוי בעיסוק, חד-חוגי",
+"en": "Occupational Therapy, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ריפוי בעיסוק",
+"en": "Occupational Therapy"
+},
+"departmentId": 233
+},
+{
+"code": "607-5607",
+"name": {
+"he": "ריפוי בעיסוק, חד-חוגי, מסלול מואץ לתואר מוסמך",
+"en": "Occupational Therapy, Single Major, accelerated track to MA"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "ריפוי בעיסוק",
+"en": "Occupational Therapy"
+},
+"departmentId": 233
+},
+{
+"code": "601-4629",
+"name": {
+"he": "רפואה ומחקר ביורפואי, חד-חוגי, תכנית \"מרום\" לבעלי תארים קודמים",
+"en": "Medicine and Biomedical Research, Single-Major, MAROM program (previous degree required)"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואה",
+"en": "Medicine"
+},
+"departmentId": 229
+},
+{
+"code": "681-5681",
+"name": {
+"he": "רפואה פרה קליני, חד-חוגי, מסלול צבאי-צמרת, ורפואה חישובית",
+"en": "Medicine, Single Major, military track- Tzameret, Pre-clinical computational medicin"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואה - המסלול הצבאי - צמרת",
+"en": "Military Track Medicine"
+},
+"departmentId": 260
+},
+{
+"code": "601-4601",
+"name": {
+"he": "רפואה, חד-חוגי, לימודים פרה קליניים",
+"en": "Medicine, single-major, para-clinical years"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואה",
+"en": "Medicine"
+},
+"departmentId": 229
+},
+{
+"code": "601-4630",
+"name": {
+"he": "רפואה, חד-חוגי, מסלול צבאי-צמרת, לימודים פרה קליניים",
+"en": "Medicine, single-major, Tzameret military track, para-clinical years"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואה",
+"en": "Medicine"
+},
+"departmentId": 229
+},
+{
+"code": "601-5601",
+"name": {
+"he": "רפואה, חד-חוגי, רפואה חישובית, שנים פרה-קליניות,",
+"en": "Medicine, Single Major, pre-clinical and computational medicine"
+},
+"scope": {
+"he": "חד-חוגי בתואר כפול",
+"en": "Single-major as double degree"
+},
+"department": {
+"he": "רפואה",
+"en": "Medicine"
+},
+"departmentId": 229
+},
+{
+"code": "681-4681",
+"name": {
+"he": "רפואה,חד-חוגי, המסלול הצבאי-צמרת, פרה-קליני",
+"en": "Medicine, Single Major, military track- Tzameret"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואה - המסלול הצבאי - צמרת",
+"en": "Military Track Medicine"
+},
+"departmentId": 260
+},
+{
+"code": "611-5611",
+"name": {
+"he": "רפואת שיניים, חד-חוגי, לימודים פרה קליניים",
+"en": "Dental Medicine, single-major, para-clinical years"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואת שיניים",
+"en": "Dental Medicine"
+},
+"departmentId": 237
+},
+{
+"code": "637-5637",
+"name": {
+"he": "רפואת שיניים, חד-חוגי, לימודים פרה קליניים, תוכנית בינה",
+"en": "Dental Medicine, Single Major, pre-clinical studies, BINA program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואת שיניים- בינה",
+"en": "Dental Medicine- BINA"
+},
+"departmentId": 392
+},
+{
+"code": "611-5637",
+"name": {
+"he": "רפואת שיניים, חד-חוגי, תכנית בינה, לימודים פרה קליניים",
+"en": "Dental Medicine, single-major, Bina military track, para-clinical years"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "רפואת שיניים",
+"en": "Dental Medicine"
+},
+"departmentId": 237
+},
+{
+"code": "157-1709",
+"name": {
+"he": "שפה וספרות גרמנית, דו-חוגי",
+"en": "German Language and Literature, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "שפה וספרות גרמנית",
+"en": "German Language & Literature"
+},
+"departmentId": 36
+},
+{
+"code": "123-1830",
+"name": {
+"he": "שפה וספרות ערבית, דו-חוגי",
+"en": "Arabic Language and Literature, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "שפה וספרות ערבית",
+"en": "Arabic Language & Literature"
+},
+"departmentId": 17
+},
+{
+"code": "123-1834",
+"name": {
+"he": "שפה וספרות ערבית, דו-חוגי, מסלול ייעודי-שילוב תעודה הוראה",
+"en": "Arabic Language and Literature, Dual Major, Combined Track for a teaching certificate"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "שפה וספרות ערבית",
+"en": "Arabic Language & Literature"
+},
+"departmentId": 17
+},
+{
+"code": "123-1835",
+"name": {
+"he": "שפה וספרות ערבית- דו-חוגי, ערבית מן היסוד",
+"en": "Arabic Language and Literature, Dual Major, Arabic from Basic level"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "שפה וספרות ערבית",
+"en": "Arabic Language & Literature"
+},
+"departmentId": 17
+},
+{
+"code": "255-1500",
+"name": {
+"he": "תוכנית אמירים מדעי הרוח, דו-חוגי",
+"en": "Amirim Honors Program, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "אמירים - תכנית מצטיינים",
+"en": "\"Amirim\" Honors Program"
+},
+"departmentId": 80
+},
+{
+"code": "5909-7909",
+"name": {
+"he": "תוכנית גמלא, חד-חוגי",
+"en": "Gamla Program, Single Major"
+},
+"scope": {
+"he": "גמל\"א",
+"en": "GAMLA"
+},
+"department": {
+"he": "תוכנית גמלא",
+"en": "Gamla Program"
+},
+"departmentId": 442
+},
+{
+"code": "140-2401",
+"name": {
+"he": "תוכנית חבצלות, אפיק מעבר לפילוסופיה, דו-חוגי, בשילוב לימודי האסלאם והמזה\"ת",
+"en": "Havatzalot Program, transition to Philosophy, Dual-Major, combined with Islamic and Middle Eastern Studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "321-2109",
+"name": {
+"he": "תוכנית חבצלות, כלכלה, דו-חוגי, בשילוב לימודי האסלאם והמזה\"ת",
+"en": "Havatzalot Program, Economics ,Dual-Major, combined with Islamic and Middle Eastern Studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "כלכלה",
+"en": "Economics"
+},
+"departmentId": 101
+},
+{
+"code": "122-2401",
+"name": {
+"he": "תוכנית חבצלות, לימודי האסלאם והמזה\"ת, דו-חוגי, אפיק מעבר לפילוסופיה",
+"en": "Havatzalot Program, Islamic and Middle Eastern Studies, Dual-Major, with a transition to Philosophy"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-2109",
+"name": {
+"he": "תוכנית חבצלות, לימודי האסלאם והמזה\"ת, דו-חוגי, בשילוב כלכלה",
+"en": "Havatzalot Program, Islamic and Middle Eastern Studies, Dual-Major, combined with Economics"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "122-2400",
+"name": {
+"he": "תוכנית חבצלות, לימודי האסלאם והמזה\"ת, דו-חוגי, בשילוב פילוסופיה",
+"en": "Havatzalot Program, Islamic and Middle Eastern Studies, Dual-Major, combined with Philosophy"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודי האסלאם והמזרח התיכון",
+"en": "Islamic & Middle East Stud."
+},
+"departmentId": 16
+},
+{
+"code": "140-2400",
+"name": {
+"he": "תוכנית חבצלות, פילוסופיה, דו-חוגי, בשילוב לימודי האסלאם והמזה\"ת",
+"en": "Havatzalot Program, Philosophy, dual-major, combined with Islamic and Middle Eastern Studies"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "פילוסופיה",
+"en": "Philosophy"
+},
+"departmentId": 22
+},
+{
+"code": "401-4000",
+"name": {
+"he": "תוכנית מכפיל",
+"en": "MACHPIL program"
+},
+"scope": {
+"he": "חד-חוגי עם חוג נוסף לתואר",
+"en": "Single-major with additional major"
+},
+"department": {
+"he": "משפטים",
+"en": "Law"
+},
+"departmentId": 139
+},
+{
+"code": "569-2081",
+"name": {
+"he": "תוכנית משולבת: פיסיקה- כימיה, חד-חוגי, בהדגש כימיה",
+"en": "combined program, Single Major, Physics- Chemistry, Chemistry emphasis"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "תכנית משולבת: פיסיקה-כימיה",
+"en": "Joint Physics-Chemistry Program"
+},
+"departmentId": 203
+},
+{
+"code": "569-2080",
+"name": {
+"he": "תוכנית משולבת: פיסיקה- כימיה, חד-חוגי, בהדגש פיסיקה",
+"en": "Physics- Chemistry, Physics emphasis, Single Major, combined program"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "תכנית משולבת: פיסיקה-כימיה",
+"en": "Joint Physics-Chemistry Program"
+},
+"departmentId": 203
+},
+{
+"code": "222-1527",
+"name": {
+"he": "תוכנית רב-תחומית משטרת ישראל, דו-חוגי",
+"en": "Multidisciplinary Studies, Israel police, Dual Major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תוכנית הרב תחומית במדעי הרוח",
+"en": "Liberal Arts"
+},
+"departmentId": 66
+},
+{
+"code": "202-1425",
+"name": {
+"he": "תוכנית רביבים",
+"en": "Revivim Program"
+},
+"scope": {
+"he": "תוכנית רביבים",
+"en": "Revivim Judaism & Jewish Education"
+},
+"department": {
+"he": "תכנית \"רביבים\"",
+"en": "Revivim Judaism & Jewish Education"
+},
+"departmentId": 57
+},
+{
+"code": "521-2064",
+"name": {
+"he": "תוכנית תלפיות מדעי המחשב, חד-חוגי, חטיבה בפיסיקה",
+"en": "Talpiot program Computer Science, Single Major, Physics section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"departmentId": 179
+},
+{
+"code": "530-2065",
+"name": {
+"he": "תוכנית תלפיות מתמטיקה, חד-חוגי, חטיבה בפיסיקה",
+"en": "Talpiot program Computer Science, Single Major, Physics section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"departmentId": 184
+},
+{
+"code": "541-2066",
+"name": {
+"he": "תוכנית תלפיות פיסיקה, חד-חוגי, חטיבה במתמטיקה",
+"en": "Talpiot program Computer Science, Single Major, Mathematics section"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"departmentId": 188
+},
+{
+"code": "520-2055",
+"name": {
+"he": "תוכנית תלפיות, חד-חוגי",
+"en": "Talpiot program, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "תכנית תלפיות",
+"en": "Talpiot Program"
+},
+"departmentId": 178
+},
+{
+"code": "197-1950",
+"name": {
+"he": "תולדות האמנות, דו-חוגי",
+"en": "History of Art, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תולדות האמנות",
+"en": "History of Art"
+},
+"departmentId": 52
+},
+{
+"code": "197-1953",
+"name": {
+"he": "תולדות האמנות, דו-חוגי, בשילוב מנהל עסקים",
+"en": "Business Administration, Dual Major, Combined with Art History"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תולדות האמנות",
+"en": "History of Art"
+},
+"departmentId": 52
+},
+{
+"code": "198-1930",
+"name": {
+"he": "תולדות התאטרון, דו-חוגי",
+"en": "Theatre Studies, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תולדות התאטרון",
+"en": "Theatre Studies"
+},
+"departmentId": 53
+},
+{
+"code": "569-2082",
+"name": {
+"he": "תכנית משולבת: פיסיקה-כימיה, חד-חוגי",
+"en": "Joint Physics-Chemistry Program, single-major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "תכנית משולבת: פיסיקה-כימיה",
+"en": "Joint Physics-Chemistry Program"
+},
+"departmentId": 203
+},
+{
+"code": "102-1430",
+"name": {
+"he": "תלמוד, דו-חוגי",
+"en": "Talmud and Halacha, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תלמוד והלכה",
+"en": "Talmud & Halacha"
+},
+"departmentId": 2
+},
+{
+"code": "323-7600",
+"name": {
+"he": "תקשורת ועיתונאות, דו-חוגי",
+"en": "Communication and Journalism, dual-major"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"departmentId": 103
+},
+{
+"code": "323-7601",
+"name": {
+"he": "תקשורת ועיתונאות, חד-חוגי, עם לימודים משלימים",
+"en": "Communication and Journalism, Single Major"
+},
+"scope": {
+"he": "חד-חוגי",
+"en": "Single-major"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"departmentId": 103
+}
+]
+}

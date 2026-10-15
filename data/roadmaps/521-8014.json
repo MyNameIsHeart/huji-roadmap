@@ -1,0 +1,333 @@
+{
+ "code": "521-8014",
+ "name": {
+  "he": "מדעי המחשב, דו-חוגי, בשילוב מתמטיקה",
+  "en": "Computer Sciences, dual-major, with Mathematics"
+ },
+ "scope": {
+  "he": "דו-חוגי",
+  "en": "Dual-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "מדעי המחשב",
+  "en": "Computer Science"
+ },
+ "departmentId": 179,
+ "faculty": {
+  "he": "ביה\"ס להנדסה ולמדעי המחשב",
+  "en": "The School of Computer Science & Engineering"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84712,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 16,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי חובה במדעי המחשב. יש ללמוד את הקורסים הבאים בסמסטר א: 67101, 67100, 80181. סמ' ב: 67109, 67315",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80181",
+    "67100",
+    "67101",
+    "67315"
+   ]
+  },
+  {
+   "id": 84733,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67099"
+   ]
+  },
+  {
+   "id": 84027,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 28,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורסים הבאים בסמסטר א: 67109, 80420, 67577. בסמסטר ב: 67504, 67125, 67925",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80420",
+    "67504",
+    "67577",
+    "67125",
+    "67109",
+    "67925"
+   ]
+  },
+  {
+   "id": 83060,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 8,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד 7 נ\"ז לפחות מרשימה זו במהלך שנים ב-ג. כחובת בחירה ניתן לספור רק קורס אחד מבין הקורסים :  67912, 67822. קורס מבוא לרשתות פתוח השנה החל משנה ג'",
+    "en": "You must choose at least 7 credits from this list"
+   },
+   "order": 15,
+   "courses": [
+    "67731",
+    "67528",
+    "67718",
+    "67561",
+    "67607",
+    "67594",
+    "67658",
+    "67822",
+    "67392",
+    "67200",
+    "67978",
+    "67506",
+    "67808",
+    "67922",
+    "67564",
+    "67912"
+   ]
+  },
+  {
+   "id": 106676,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורס בחירה פתוח החל משנה ב'",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67723"
+   ]
+  },
+  {
+   "id": 106616,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 5,
+   "maxPoints": 5,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורס 67521 בסמסטר א",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67521"
+   ]
+  },
+  {
+   "id": 87155,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 5,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "רשימת קורסי הבחירה במדעי המחשב  להשלמת 60 נ\"ז  בחוג מדעי המחשב (לתשומת לב, קורסים שמוגדרים בסילבוס כקורסי מוסמך הפתוחים לתלמידי שנה ג ייתכן ויילמדו בשפה האנגלית). לתשומת לבך, חובה ללמוד 2 קורסים בשפה האנגלית במהלך התואר",
+    "en": "Electives in Computer Sciences. To complete the required number of credits in Computer Sciences"
+   },
+   "order": 39,
+   "courses": [
+    "76558",
+    "67519",
+    "769001",
+    "67561",
+    "80423",
+    "67508",
+    "80445",
+    "80446",
+    "67705",
+    "67720",
+    "67723",
+    "67879",
+    "67537",
+    "67524",
+    "67538",
+    "67601",
+    "67468",
+    "67883",
+    "67778",
+    "52006",
+    "80721",
+    "80424",
+    "76909",
+    "67678",
+    "67596",
+    "67822",
+    "67651",
+    "67611",
+    "67755",
+    "67539",
+    "67513",
+    "67711",
+    "80320",
+    "67791",
+    "67515",
+    "67613",
+    "67725",
+    "67604",
+    "67692",
+    "67927",
+    "67518",
+    "67664",
+    "76921",
+    "67542",
+    "67465",
+    "52935",
+    "67690",
+    "76553",
+    "67609",
+    "76908",
+    "67562",
+    "67543",
+    "67803",
+    "67509",
+    "67534",
+    "67743",
+    "67691",
+    "67564",
+    "67724",
+    "67721",
+    "67818",
+    "67499",
+    "67677",
+    "67765",
+    "67503",
+    "76915",
+    "76562",
+    "67829",
+    "67531",
+    "67548"
+   ]
+  },
+  {
+   "id": 83043,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "קורסים מרחיבי דעת",
+    "en": "Enrichment Courses"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 2,
+   "maxCount": null,
+   "note": {
+    "he": "ניתן לבחור עד קורס 1 מרשימה זו. קורסי בחירה חופשיים",
+    "en": "Free electives in Computer Sciences. Students may take up to one course only from this list"
+   },
+   "order": 70,
+   "courses": [
+    "67398",
+    "67688"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "530-8014",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב מדעי המחשב",
+    "en": "Mathematics, Dual-Major, with Computer Sciences"
+   }
+  },
+  {
+   "code": "523-9020",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מחשבים",
+    "en": "Amirim Honors Program - Computers"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

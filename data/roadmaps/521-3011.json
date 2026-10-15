@@ -1,0 +1,838 @@
+{
+ "code": "521-3011",
+ "name": {
+  "he": "מדעי המחשב, דו-חוגי",
+  "en": "Computer Sciences, dual-major"
+ },
+ "scope": {
+  "he": "דו-חוגי",
+  "en": "Dual-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "מדעי המחשב",
+  "en": "Computer Science"
+ },
+ "departmentId": 179,
+ "faculty": {
+  "he": "ביה\"ס להנדסה ולמדעי המחשב",
+  "en": "The School of Computer Science & Engineering"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84715,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 46,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורסים: 67101, 80131,80134, 80181 בסמסטר הראשון ללימודים. את הקורסים 80430, 80133, 80135, 67315 בסמסטר השני ללימודים",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80134",
+    "80135",
+    "67100",
+    "80131",
+    "80430",
+    "67101",
+    "80187",
+    "67315",
+    "80133"
+   ]
+  },
+  {
+   "id": 86769,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "other",
+   "title": {
+    "he": "סדנאות עזר",
+    "en": "Support Workshops"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "סדנאות למידה נלוות לקורסי חובה בשנה א'. ההשתתפות בסדנאות הינה רשות",
+    "en": ""
+   },
+   "order": 37,
+   "courses": [
+    "80034",
+    "80035",
+    "80031",
+    "80033"
+   ]
+  },
+  {
+   "id": 84736,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67099"
+   ]
+  },
+  {
+   "id": 84032,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 23,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורסים 67109, 67577, 67925 בסמסטר השלישי. הקורסים: 67504 בסמסטר הרביעי. ניתן לבחור ללמוד קורס 67125 בסמסטרהשלישי או הרביעי",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67504",
+    "67577",
+    "67125",
+    "67109",
+    "67925"
+   ]
+  },
+  {
+   "id": 83056,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 8,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד לפחות 8 נ\"ז  מרשימה זו במהלך שנים ב-ג. כחובת בחירה ניתן לספור רק קורס אחד מבין הקורסים  אחד מהקורסים: 67912, 67822",
+    "en": "You must choose at least 8 credits from this list"
+   },
+   "order": 15,
+   "courses": [
+    "67731",
+    "67528",
+    "67718",
+    "67561",
+    "67607",
+    "67594",
+    "67658",
+    "67822",
+    "67392",
+    "67200",
+    "67978",
+    "67506",
+    "67808",
+    "67922",
+    "67564",
+    "67912"
+   ]
+  },
+  {
+   "id": 106676,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורס בחירה פתוח החל משנה ב'",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67723"
+   ]
+  },
+  {
+   "id": 106352,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 5,
+   "maxPoints": 5,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורס 67521 בסמסטר 5",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67521"
+   ]
+  },
+  {
+   "id": 87154,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 7,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "רשימת קורסי הבחירה במדעי המחשב  להשלמת 90 נ\"ז  בחוג (לתשומת לב, קורסים שמוגדרים בסילבוס כקורסי מוסמך הפתוחים לתלמידי שנה ג ייתכן ויילמדו בשפה האנגלית). לתשומת לבך, חובה ללמוד 2 קורסים בשפה האנגלית במהלך התואר",
+    "en": "Electives in Computer Sciences. To complete the required number of credits in Computer Sciences"
+   },
+   "order": 39,
+   "courses": [
+    "76558",
+    "67519",
+    "769001",
+    "67561",
+    "80423",
+    "67508",
+    "80445",
+    "80446",
+    "67705",
+    "67720",
+    "67879",
+    "67538",
+    "67524",
+    "67537",
+    "67601",
+    "67468",
+    "67883",
+    "67778",
+    "52006",
+    "80721",
+    "80424",
+    "76909",
+    "67678",
+    "67596",
+    "67822",
+    "67651",
+    "67611",
+    "67539",
+    "67513",
+    "67711",
+    "80320",
+    "67791",
+    "67515",
+    "67613",
+    "67725",
+    "67604",
+    "67692",
+    "67927",
+    "67518",
+    "67664",
+    "76921",
+    "67542",
+    "67465",
+    "52935",
+    "67690",
+    "76553",
+    "67609",
+    "76908",
+    "67562",
+    "67543",
+    "67803",
+    "67509",
+    "67534",
+    "67743",
+    "67691",
+    "67564",
+    "67724",
+    "67721",
+    "67818",
+    "67499",
+    "67677",
+    "67765",
+    "67503",
+    "76915",
+    "76562",
+    "67829",
+    "67531",
+    "67548"
+   ]
+  },
+  {
+   "id": 83043,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "קורסים מרחיבי דעת",
+    "en": "Enrichment Courses"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 2,
+   "maxCount": null,
+   "note": {
+    "he": "ניתן לבחור עד קורס 1 מרשימה זו. קורסי בחירה חופשיים",
+    "en": "Free electives in Computer Sciences. Students may take up to one course only from this list"
+   },
+   "order": 70,
+   "courses": [
+    "67398",
+    "67688"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "322-3221",
+   "name": {
+    "he": "מנהל עסקים, דו-חוגי",
+    "en": "Business Administration, dual-major"
+   }
+  },
+  {
+   "code": "325-3251",
+   "name": {
+    "he": "חשבונאות, דו-חוגי",
+    "en": "Accounting, dual-major"
+   }
+  },
+  {
+   "code": "200-1200",
+   "name": {
+    "he": "חינוך, דו-חוגי",
+    "en": "Education, dual-major"
+   }
+  },
+  {
+   "code": "101-1420",
+   "name": {
+    "he": "מקרא, דו-חוגי",
+    "en": "Bible, dual-major"
+   }
+  },
+  {
+   "code": "102-1430",
+   "name": {
+    "he": "תלמוד, דו-חוגי",
+    "en": "Talmud and Halacha, dual-major"
+   }
+  },
+  {
+   "code": "105-1320",
+   "name": {
+    "he": "היסטוריה של עם ישראל ויהדות זמננו, דו-חוגי",
+    "en": "History of the Jewish People & Contemporary Jewry, dual-major"
+   }
+  },
+  {
+   "code": "108-1840",
+   "name": {
+    "he": "ספרות עברית, דו-חוגי",
+    "en": "Hebrew Literature, dual-major"
+   }
+  },
+  {
+   "code": "109-1820",
+   "name": {
+    "he": "הלשון העברית, דו-חוגי",
+    "en": "Hebrew Language, dual-major"
+   }
+  },
+  {
+   "code": "113-1440",
+   "name": {
+    "he": "מחשבת ישראל, דו-חוגי",
+    "en": "Jewish Thought, dual-major"
+   }
+  },
+  {
+   "code": "115-1510",
+   "name": {
+    "he": "מדעי היהדות, דו-חוגי",
+    "en": "Jewish Studies, dual-major"
+   }
+  },
+  {
+   "code": "122-1340",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי",
+    "en": "Islamic and Middle Eastern Studies, dual-major"
+   }
+  },
+  {
+   "code": "123-1830",
+   "name": {
+    "he": "שפה וספרות ערבית, דו-חוגי",
+    "en": "Arabic Language and Literature, dual-major"
+   }
+  },
+  {
+   "code": "124-1325",
+   "name": {
+    "he": "לימודי אסיה, דו-חוגי, מדור קוריאה",
+    "en": "Asian Studies, dual-major, Korea trend"
+   }
+  },
+  {
+   "code": "124-1330",
+   "name": {
+    "he": "לימודי אסיה, דו-חוגי, מדור סין",
+    "en": "Asian Studies, dual-major, China trend"
+   }
+  },
+  {
+   "code": "124-1331",
+   "name": {
+    "he": "לימודי אסיה, דו-חוגי, מדור יפן",
+    "en": "Asian Studies, dual-major, Japan trend"
+   }
+  },
+  {
+   "code": "124-1332",
+   "name": {
+    "he": "לימודי אסיה, דו-חוגי, מדור הודו ואינדונזיה",
+    "en": "Asian Studies, dual-major, India and Indonesia trend"
+   }
+  },
+  {
+   "code": "140-1402",
+   "name": {
+    "he": "פילוסופיה, דו-חוגי",
+    "en": "Philosophy, dual-major"
+   }
+  },
+  {
+   "code": "151-1310",
+   "name": {
+    "he": "היסטוריה, דו-חוגי",
+    "en": "History, dual-major"
+   }
+  },
+  {
+   "code": "155-1711",
+   "name": {
+    "he": "לימודים ספרדיים ולטינו אמריקניים, דו-חוגי",
+    "en": "Spanish and Latin American Studies, dual-major"
+   }
+  },
+  {
+   "code": "156-1708",
+   "name": {
+    "he": "לימודים רוסיים וסלאוויים, דו-חוגי",
+    "en": "Russian and Slavic Studies, dual-major"
+   }
+  },
+  {
+   "code": "157-1709",
+   "name": {
+    "he": "שפה וספרות גרמנית, דו-חוגי",
+    "en": "German Language and Literature, dual-major"
+   }
+  },
+  {
+   "code": "172-1815",
+   "name": {
+    "he": "לימודים קלאסיים, דו-חוגי",
+    "en": "Classical Studies, dual-major"
+   }
+  },
+  {
+   "code": "176-1810",
+   "name": {
+    "he": "אנגלית, דו-חוגי",
+    "en": "English, dual-major"
+   }
+  },
+  {
+   "code": "180-1801",
+   "name": {
+    "he": "ספרות כללית והשוואתית, דו-חוגי",
+    "en": "General and Comparative Literature, dual-major"
+   }
+  },
+  {
+   "code": "197-1950",
+   "name": {
+    "he": "תולדות האמנות, דו-חוגי",
+    "en": "History of Art, dual-major"
+   }
+  },
+  {
+   "code": "198-1930",
+   "name": {
+    "he": "תולדות התאטרון, דו-חוגי",
+    "en": "Theatre Studies, dual-major"
+   }
+  },
+  {
+   "code": "199-1940",
+   "name": {
+    "he": "מוסיקולוגיה, דו-חוגי",
+    "en": "Musicology, dual-major"
+   }
+  },
+  {
+   "code": "222-1524",
+   "name": {
+    "he": "התוכנית הרב-תחומית במדעי הרוח, דו-חוגי",
+    "en": "Multidisciplinary Program in Humanities, dual-major"
+   }
+  },
+  {
+   "code": "255-1500",
+   "name": {
+    "he": "תוכנית אמירים מדעי הרוח, דו-חוגי",
+    "en": "Amirim Honors Program, dual-major"
+   }
+  },
+  {
+   "code": "300-7000",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי",
+    "en": "Psychology, dual-major"
+   }
+  },
+  {
+   "code": "312-7300",
+   "name": {
+    "he": "יחסים בין-לאומיים, דו-חוגי",
+    "en": "International Relations, dual-major"
+   }
+  },
+  {
+   "code": "323-7600",
+   "name": {
+    "he": "תקשורת ועיתונאות, דו-חוגי",
+    "en": "Communication and Journalism, dual-major"
+   }
+  },
+  {
+   "code": "411-4920",
+   "name": {
+    "he": "קרימינולוגיה, דו-חוגי",
+    "en": "Criminology, dual-major"
+   }
+  },
+  {
+   "code": "570-4011",
+   "name": {
+    "he": "מדעי החיים, דו-חוגי, בשילוב חוג ממדעי הטבע",
+    "en": "Life Sciences, Dual Major, with additional major in Nature Sciences"
+   }
+  },
+  {
+   "code": "570-4021",
+   "name": {
+    "he": "מדעי החיים, דו-חוגי, תכנית אתגר",
+    "en": "Life Sciences, dual-major, Etgar track"
+   }
+  },
+  {
+   "code": "821-7877",
+   "name": {
+    "he": "גאוגרפיה, סביבה וגיאואינפורמטיקה, דו-חוגי",
+    "en": "Geography, Dual Major, Environment and Geoinformatics"
+   }
+  },
+  {
+   "code": "301-7100",
+   "name": {
+    "he": "סוציולוגיה ואנתרופולוגיה, דו-חוגי",
+    "en": "Sociology and Anthropology, dual-major"
+   }
+  },
+  {
+   "code": "523-9020",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מחשבים",
+    "en": "Amirim Honors Program - Computers"
+   }
+  },
+  {
+   "code": "311-7200",
+   "name": {
+    "he": "מדע המדינה, דו-חוגי",
+    "en": "Political Science, dual-major"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  },
+  {
+   "code": "141-1419",
+   "name": {
+    "he": "מדע הדתות, דו-חוגי",
+    "en": "Comparative Religion, dual-major"
+   }
+  },
+  {
+   "code": "150-1915",
+   "name": {
+    "he": "ארכיאולוגיה והמזרח הקרוב הקדום, דו-חוגי",
+    "en": "Archaeology and Ancient Near East, dual-major"
+   }
+  },
+  {
+   "code": "179-1703",
+   "name": {
+    "he": "לימודים רומאניים, דו-חוגי",
+    "en": "Romance Studies, dual-major"
+   }
+  },
+  {
+   "code": "200-2221",
+   "name": {
+    "he": "חינוך בוגר ראשי, דו-חוגי, מסלול מצטיינים",
+    "en": "Bachelor's track, Dual Major, for outstanding students"
+   }
+  },
+  {
+   "code": "200-2222",
+   "name": {
+    "he": "חינוך, דו-חוגי, לתלמידים ללא פטור בעברית",
+    "en": "Education, dual-major, for students without Hebrew exemption"
+   }
+  },
+  {
+   "code": "300-7002",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי, הדגש בפסיכולוגיה התפתחותית",
+    "en": "Psychology, Dual Major, Developmental Psychology emphasis"
+   }
+  },
+  {
+   "code": "300-7003",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי, הדגש רגש בפסיכולוגיה",
+    "en": "Psychology, Dual Major, Emotion in Psychology emphasis"
+   }
+  },
+  {
+   "code": "300-7004",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי, הדגש בפסיכולוגיה חישובית",
+    "en": "Computational psychology cluster, Dual Major"
+   }
+  },
+  {
+   "code": "123-1835",
+   "name": {
+    "he": "שפה וספרות ערבית- דו-חוגי, ערבית מן היסוד",
+    "en": "Arabic Language and Literature, Dual Major, Arabic from Basic level"
+   }
+  },
+  {
+   "code": "108-1704",
+   "name": {
+    "he": "ספרות עברית, דו-חוגי, הדגש בתרגום עם שפה זרה",
+    "en": "Hebrew Literature, Dual Major, translation- foreign language"
+   }
+  },
+  {
+   "code": "108-1843",
+   "name": {
+    "he": "ספרות עברית, דו-חוגי, הדגש בכתיבה יוצרת",
+    "en": "Hebrew literature, Dual Major, emphasis on creative writing"
+   }
+  },
+  {
+   "code": "179-1729",
+   "name": {
+    "he": "לימודים רומאניים, דו-חוגי, הדגש בתרגום",
+    "en": "Romance studies, Dual Major, Translation emphasis"
+   }
+  },
+  {
+   "code": "155-1730",
+   "name": {
+    "he": "לימודים ספרדיים ולטינו אמריקניים, דו-חוגי, הדגש בתרגום",
+    "en": "Spanish and Latin American Studies, Dual Major, Translation emphasis"
+   }
+  },
+  {
+   "code": "156-1710",
+   "name": {
+    "he": "לימודים רוסיים וסלאוויים, דו-חוגי, הדגש בתרגום",
+    "en": "Russian and Slavic studies, Dual Major, translation emphasis"
+   }
+  },
+  {
+   "code": "180-1802",
+   "name": {
+    "he": "ספרות כללית והשוואתית, דו-חוגי, הדגש כתיבה יוצרת ללא שפה זרה",
+    "en": "General and Comparative Literature, Dual Major, creative writing emphasis, without language"
+   }
+  },
+  {
+   "code": "172-1813",
+   "name": {
+    "he": "לימודים קלאסיים, דו-חוגי, יוונית",
+    "en": "Classical studies, Dual Major, Greek"
+   }
+  },
+  {
+   "code": "172-1814",
+   "name": {
+    "he": "לימודים קלאסיים, דו-חוגי, רומית",
+    "en": "Classical studies, Dual Major, Roman"
+   }
+  },
+  {
+   "code": "180-1803",
+   "name": {
+    "he": "ספרות כללית והשוואתית, דו-חוגי, הדגש כתיבה יוצרת עם שפה זרה",
+    "en": "General and Comparative Literature, Dual Major, creative writing emphasis, with foreign language"
+   }
+  },
+  {
+   "code": "180-1857",
+   "name": {
+    "he": "ספרות כללית והשוואתית, דו-חוגי, הדגש בתרגום ללא שפה זרה",
+    "en": "General and Comparative Literature, Dual Major, translation emphasis without foreign language"
+   }
+  },
+  {
+   "code": "180-1858",
+   "name": {
+    "he": "ספרות כללית והשוואתית, דו-חוגי, הדגש בתרגום עם שפה זרה",
+    "en": "General and Comparative Literature, Dual Major, translation emphasis with foreign language"
+   }
+  },
+  {
+   "code": "122-1342",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, רמת מתקדמים בערבית",
+    "en": "Islamic and Middle Eastern Studies, Dual Major, Advanced level in Arabic"
+   }
+  },
+  {
+   "code": "122-1343",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, רמת פטור בערבית",
+    "en": "Islamic and Middle Eastern Studies, Dual Major, Exempt Level in Arabic"
+   }
+  },
+  {
+   "code": "122-1352",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים איראניים",
+    "en": "Islamic and Middle Eastern Studies, Dual Major, Emphasis on Iranian studies"
+   }
+  },
+  {
+   "code": "122-1353",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים טורקיים",
+    "en": "Islamic and Middle Eastern Studies, Undergraduate, Double Major, Emphasis on Turkish studies"
+   }
+  },
+  {
+   "code": "122-1354",
+   "name": {
+    "he": "לימודי האסלאם והמזרח התיכון, דו-חוגי, הדגש בלימודים בהאאיים",
+    "en": "Islamic and Middle Eastern Studies, Dual Major, Emphasis on Baha'i studies"
+   }
+  },
+  {
+   "code": "150-1916",
+   "name": {
+    "he": "ארכאולוגיה והמזרח הקרוב הקדום, דו-חוגי, מדור אשורולוגיה",
+    "en": "Archeology and Ancient Near East, Dual Major, Assyriology section"
+   }
+  },
+  {
+   "code": "150-1919",
+   "name": {
+    "he": "ארכאולוגיה והמזרח הקרוב הקדום, דו-חוגי, ארכאולוגיה עיונית",
+    "en": "Archeology and Ancient Near East, Dual Major Theoretical archaeology"
+   }
+  },
+  {
+   "code": "456-9323",
+   "name": {
+    "he": "לימודי רווחה חברתית, דו-חוגי",
+    "en": "Social Welfare Studies, dual-major"
+   }
+  },
+  {
+   "code": "124-1326",
+   "name": {
+    "he": "לימודי אסיה, דו-חוגי, מדור אסיה העכשווית",
+    "en": "Asia studies, Dual Major, contemporary Asia section"
+   }
+  },
+  {
+   "code": "300-7005",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי, הדגש בפסיכולוגיה חברתית קוגניטיבית",
+    "en": "Psychology, Dual Major, Social Cognitive Psychology Cluster"
+   }
+  },
+  {
+   "code": "300-7006",
+   "name": {
+    "he": "פסיכולוגיה, דו-חוגי, הדגש חוסן ומניעת התמכרויות",
+    "en": "Psychology, Dual Major, Resilience and addiction Prevention Cluster"
+   }
+  }
+ ]
+}

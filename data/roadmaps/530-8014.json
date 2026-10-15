@@ -1,0 +1,422 @@
+{
+ "code": "530-8014",
+ "name": {
+  "he": "מתמטיקה, דו-חוגי, בשילוב מדעי המחשב",
+  "en": "Mathematics, dual-major, with Computer Sciences"
+ },
+ "scope": {
+  "he": "דו-חוגי",
+  "en": "Dual-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "מתמטיקה",
+  "en": "Mathematics"
+ },
+ "departmentId": 184,
+ "faculty": {
+  "he": "פקולטה למתמטיקה ולמדעי הטבע",
+  "en": "Faculty of Sciences"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84773,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 26,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי חובה במתמטיקה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80134",
+    "80135",
+    "76408",
+    "80131",
+    "80132"
+   ]
+  },
+  {
+   "id": 84777,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 3,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "80200"
+   ]
+  },
+  {
+   "id": 84804,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 10,
+   "maxCount": null,
+   "note": {
+    "he": "קורס בחירה במתמטיקה",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80111",
+    "80116",
+    "80115"
+   ]
+  },
+  {
+   "id": 84813,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 20,
+   "maxCount": null,
+   "note": {
+    "he": "הקבלה לקורס זה מותנית בחתך קבלה גבוה מאוד או השתתפות בסדנה מיוחדת שתתקיים ב- 6.10.26",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80158"
+   ]
+  },
+  {
+   "id": 86770,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "סדנאות למידה נלוות לקורסי חובה בשנה א'. ההשתתפות בסדנאות הינה רשות",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80034",
+    "80035",
+    "80031",
+    "80032"
+   ]
+  },
+  {
+   "id": 84082,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 17,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי חובה במתמטיקה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80445",
+    "76408",
+    "80415",
+    "80416",
+    "80417"
+   ]
+  },
+  {
+   "id": 84110,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 11,
+   "maxPoints": 19,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 11 נ\"ז מרשימה זו. יש ללמוד בשנה ב' ו- ג' שלושה קורסים מרשימה זו. יש לשים לב כי בשנה ג' נוספים 3 קורסים לרשימה: (יש לשים לב לדרישות הקדם)",
+    "en": "You must choose at least 11 credits from this list"
+   },
+   "order": 15,
+   "courses": [
+    "80423",
+    "80516",
+    "80418",
+    "80320",
+    "80200"
+   ]
+  },
+  {
+   "id": 84107,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 10,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 2 נ\"ז מרשימה זו. להשלמת הנקודות במתמטיקה אפשר לבחור מרשימת הקורסים הבאה:",
+    "en": "You must choose at least 2 credits from this list"
+   },
+   "order": 39,
+   "courses": [
+    "80424",
+    "80507",
+    "80560"
+   ]
+  },
+  {
+   "id": 81653,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 11,
+   "maxPoints": 27,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 11 נ\"ז מרשימה זו. יש ללמוד בשנה ב' ו- ג' שלושה קורסים מרשימה זו: (יש לשים לב לדרישות הקדם)",
+    "en": "You must choose at least 11 credits from this list"
+   },
+   "order": 15,
+   "courses": [
+    "80423",
+    "80446",
+    "80519",
+    "80517",
+    "80516",
+    "80418",
+    "80320",
+    "80200"
+   ]
+  },
+  {
+   "id": 83134,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 65,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 2 נ\"ז מרשימה זו. קורסי בחירה למוסמך המיועדים גם לתלמידי בוגר שנה ג'",
+    "en": "You must choose at least  2 credits from this list"
+   },
+   "order": 39,
+   "courses": [
+    "80600",
+    "80608",
+    "80598",
+    "80779",
+    "80615",
+    "80599",
+    "80601",
+    "80607",
+    "8066677",
+    "80757",
+    "80993",
+    "80756",
+    "80699",
+    "80908",
+    "80585",
+    "80986",
+    "80985",
+    "80991",
+    "80717",
+    "80899",
+    "80679",
+    "80765",
+    "80557"
+   ]
+  },
+  {
+   "id": 86737,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 63,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 2 נ\"ז מתוך אגדים 1, 4. להשלמת הנקודות במתמטיקה אפשר לבחור מרשימת הקורסים הבאה:",
+    "en": "You must choose at least  2 credits from the clusters 1, 4"
+   },
+   "order": 39,
+   "courses": [
+    "80540",
+    "80539",
+    "80541",
+    "80779",
+    "67720",
+    "80615",
+    "80424",
+    "80787",
+    "80788",
+    "80789",
+    "80507",
+    "80421",
+    "80560",
+    "67706",
+    "80722",
+    "80971",
+    "67803",
+    "80985",
+    "80792",
+    "80991",
+    "80975",
+    "80901",
+    "77220",
+    "80824",
+    "80616"
+   ]
+  },
+  {
+   "id": 111136,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 65,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה המיועדים גם לתלמידי בוגר שנה ג' בלבד",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80558",
+    "80600",
+    "80608",
+    "80598",
+    "8066691",
+    "8066670",
+    "80779",
+    "80576",
+    "80599",
+    "80601",
+    "80607",
+    "8066666",
+    "8066673",
+    "80756",
+    "80991",
+    "80616"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "521-8014",
+   "name": {
+    "he": "מדעי המחשב, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Computer Sciences, Dual-Major, with Mathematics"
+   }
+  },
+  {
+   "code": "523-9020",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מחשבים",
+    "en": "Amirim Honors Program - Computers"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

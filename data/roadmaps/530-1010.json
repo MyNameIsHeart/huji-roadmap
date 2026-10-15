@@ -1,0 +1,479 @@
+{
+ "code": "530-1010",
+ "name": {
+  "he": "מתמטיקה, חד-חוגי",
+  "en": "Mathematics, single-major"
+ },
+ "scope": {
+  "he": "חד-חוגי",
+  "en": "Single-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "מתמטיקה",
+  "en": "Mathematics"
+ },
+ "departmentId": 184,
+ "faculty": {
+  "he": "פקולטה למתמטיקה ולמדעי הטבע",
+  "en": "Faculty of Sciences"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84789,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 44,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80111",
+    "80181",
+    "80134",
+    "80135",
+    "76408",
+    "80131",
+    "80132",
+    "80116",
+    "77154"
+   ]
+  },
+  {
+   "id": 84794,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 3,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "80200"
+   ]
+  },
+  {
+   "id": 84793,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 17,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי תכנות - עליך ללמוד בשנים א' עד ג' את אחד מקורסי התכנות הבאים: (קורס התכנות ייחשב רק כחלק מהלימודים המשלימים לתואר)",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "76634",
+    "76641",
+    "76631",
+    "76629",
+    "76637",
+    "76628",
+    "76632",
+    "6126"
+   ]
+  },
+  {
+   "id": 84798,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 4,
+   "maxCount": null,
+   "note": {
+    "he": "להשלמת הנקודות במתמטיקה אפשר לבחור מרשימת הקורסים הבאה:",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80115"
+   ]
+  },
+  {
+   "id": 84813,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 20,
+   "maxCount": null,
+   "note": {
+    "he": "הקבלה לקורס זה מותנית בחתך קבלה גבוה מאוד או השתתפות בסדנה מיוחדת שתתקיים ב- 6.10.26",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80158"
+   ]
+  },
+  {
+   "id": 86770,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "סדנאות למידה נלוות לקורסי חובה בשנה א'. ההשתתפות בסדנאות הינה רשות",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80034",
+    "80035",
+    "80031",
+    "80032"
+   ]
+  },
+  {
+   "id": 84069,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 17,
+   "maxPoints": 17,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80445",
+    "76408",
+    "80415",
+    "80416",
+    "80417"
+   ]
+  },
+  {
+   "id": 81659,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 23,
+   "maxPoints": 24,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד בשנה ב' ו-ג' 6 מתוך רשימת קורסים זו (יש לשים לב לדרישות קדם) בשנה ג' נוספים 3 קורסים לרשימה:",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "80423",
+    "80420",
+    "80516",
+    "80418",
+    "80320",
+    "80200"
+   ]
+  },
+  {
+   "id": 83112,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 16,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה מחוגים אחרים. קורס אחד לכל היותר מרשימה זו, ייספר כחלק מהנקודות במתמטיקה",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "77313",
+    "67504",
+    "67521"
+   ]
+  },
+  {
+   "id": 84088,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 20,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי תכנות - עליך ללמוד בשנים א' עד ג' את אחד מקורסי התכנות הבאים: (קורס התכנות ייחשב רק כחלק מהלימודים המשלימים לתואר)",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "76634",
+    "76631",
+    "67101",
+    "76629",
+    "76637",
+    "76628",
+    "76632",
+    "6126"
+   ]
+  },
+  {
+   "id": 84107,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 10,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 2 נ\"ז מרשימה זו. להשלמת הנקודות במתמטיקה אפשר לבחור מרשימת הקורסים הבאה:",
+    "en": "You must choose at least 2 credits from this list"
+   },
+   "order": 39,
+   "courses": [
+    "80424",
+    "80507",
+    "80560"
+   ]
+  },
+  {
+   "id": 83144,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 23,
+   "maxPoints": 32,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד בשנה ב' ו-ג' 6 קורסים מרשימה זו (שים לב לדרישות קדם):",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "80423",
+    "80446",
+    "80519",
+    "80420",
+    "80517",
+    "80516",
+    "80418",
+    "80320",
+    "80200"
+   ]
+  },
+  {
+   "id": 83108,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 65,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה למוסמך המיועדים גם לתלמידי בוגר שנה ג'",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80612"
+   ]
+  },
+  {
+   "id": 86737,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 63,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור לפחות 2 נ\"ז מתוך אגדים 1, 4. להשלמת הנקודות במתמטיקה אפשר לבחור מרשימת הקורסים הבאה:",
+    "en": "You must choose at least  2 credits from the clusters 1, 4"
+   },
+   "order": 39,
+   "courses": [
+    "80540",
+    "80539",
+    "80541",
+    "80779",
+    "67720",
+    "80615",
+    "80424",
+    "80787",
+    "80788",
+    "80789",
+    "80507",
+    "80421",
+    "80560",
+    "67706",
+    "80722",
+    "80971",
+    "67803",
+    "80985",
+    "80792",
+    "80991",
+    "80975",
+    "80901",
+    "77220",
+    "80824",
+    "80616"
+   ]
+  },
+  {
+   "id": 111136,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 65,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה המיועדים גם לתלמידי בוגר שנה ג' בלבד",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80558",
+    "80600",
+    "80608",
+    "80598",
+    "8066691",
+    "8066670",
+    "80779",
+    "80576",
+    "80599",
+    "80601",
+    "80607",
+    "8066666",
+    "8066673",
+    "80756",
+    "80991",
+    "80616"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

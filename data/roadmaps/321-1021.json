@@ -1,0 +1,346 @@
+{
+ "code": "321-1021",
+ "name": {
+  "he": "כלכלה, דו-חוגי, בשילוב מתמטיקה",
+  "en": "Economics, dual-major, with Mathematics"
+ },
+ "scope": {
+  "he": "דו-חוגי",
+  "en": "Dual-major"
+ },
+ "degree": "B.A",
+ "department": {
+  "he": "כלכלה",
+  "en": "Economics"
+ },
+ "departmentId": 101,
+ "faculty": {
+  "he": "פקולטה למדעי החברה",
+  "en": "Faculty of Social Sciences"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84642,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 8,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "כלכלה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "57107",
+    "57108"
+   ]
+  },
+  {
+   "id": 83922,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 12,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי כלכלה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "57305",
+    "57307",
+    "57308"
+   ]
+  },
+  {
+   "id": 83928,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 6,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי סטטיסטיקה-חובה למסלול מתמטיקה-כלכלה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80430"
+   ]
+  },
+  {
+   "id": 86759,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 8,
+   "maxPoints": 16,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי ליבה - במהלך התואר יש להשתתף בקורסי ליבה בחוג בהיקף של 8 נ\"ז",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "57654",
+    "54121",
+    "57468",
+    "57133",
+    "57012",
+    "57020",
+    "57495",
+    "57124",
+    "57002",
+    "57311",
+    "57013",
+    "57466",
+    "57318",
+    "57104",
+    "57503",
+    "57496",
+    "57717"
+   ]
+  },
+  {
+   "id": 86757,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 8,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה בכלכלה. במהלך התואר יש להשתתף בקורסי בחירה בחוג בהיקף של 8 נ\"ז",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "57509",
+    "57102",
+    "57556",
+    "57705",
+    "57497",
+    "57003"
+   ]
+  },
+  {
+   "id": 82933,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 4,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "57322"
+   ]
+  },
+  {
+   "id": 86730,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה סמינרים",
+    "en": "Required Electives: Seminars"
+   },
+   "mandatory": false,
+   "minPoints": 4,
+   "maxPoints": 40,
+   "maxCount": null,
+   "note": {
+    "he": "כלכלה קורסי חקר - מיועדים לתלמידי שנה ג' במחלקה לכלכלה. יש לבחור אחד מבין הקורסים הבאים, ולכתוב במסגרתו עבודת חקר, בהנחיית מרצה הקורס",
+    "en": ""
+   },
+   "order": 19,
+   "courses": [
+    "57638",
+    "57123",
+    "57469",
+    "57128",
+    "57493",
+    "57533",
+    "57736",
+    "57015",
+    "57667",
+    "57125",
+    "57016",
+    "57811",
+    "57152",
+    "57255",
+    "57117"
+   ]
+  },
+  {
+   "id": 86729,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה קורסי ליבה",
+    "en": "Required Electives: Core Courses"
+   },
+   "mandatory": false,
+   "minPoints": 8,
+   "maxPoints": 16,
+   "maxCount": null,
+   "note": {
+    "he": "כלכלה קורסי ליבה - מיועדים לתלמידי שנה ג' במחלקה לכלכלה. יש לבחור אחד מבין הקורסים הבאים (לתשומת לבכם, קורסי ליבה יכולים לשמש גם כקורסי בחירה, בכפוף למקום פנוי ובאישור מזכירות המחלקה)",
+    "en": ""
+   },
+   "order": 21,
+   "courses": [
+    "57893",
+    "57126",
+    "57552",
+    "57025",
+    "57467",
+    "57807",
+    "57735",
+    "57506",
+    "57654",
+    "57253",
+    "57554",
+    "54121",
+    "57836",
+    "57468",
+    "57011",
+    "57777",
+    "57133",
+    "57012",
+    "57687",
+    "57020",
+    "57510",
+    "57895",
+    "57124",
+    "57002",
+    "57588",
+    "57311",
+    "57747",
+    "57466",
+    "57318",
+    "57132",
+    "57104",
+    "57010",
+    "57806",
+    "57555",
+    "57257",
+    "57503",
+    "57496",
+    "57600"
+   ]
+  },
+  {
+   "id": 82938,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 8,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה החוג לכלכלה. יש ללמד במסגרת קורסי הבחירה קורסים עד להשלמת הנ\"ז הנדרשת לתואר (8-10). לתלמידים המשלבים מנהל עסקים וחשבונאות לא ניתן לקחת את קורס מס' 55803 במסגרת המחלקה לכלכלה",
+    "en": "You may choose up to 8 credits from this list in the years 2nd,3rd"
+   },
+   "order": 39,
+   "courses": [
+    "57509",
+    "59823",
+    "55939",
+    "55008",
+    "57836",
+    "57127",
+    "55733",
+    "57102",
+    "57556",
+    "57705",
+    "57497",
+    "55403",
+    "55650",
+    "51127",
+    "57003",
+    "59642"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "530-1021",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב כלכלה",
+    "en": "Mathematics, dual-major, with Economics"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

@@ -1,0 +1,301 @@
+{
+ "code": "541-8013",
+ "name": {
+  "he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה",
+  "en": "Physics, dual-major, with Mathematics"
+ },
+ "scope": {
+  "he": "דו-חוגי",
+  "en": "Dual-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "פיסיקה",
+  "en": "Physics"
+ },
+ "departmentId": 188,
+ "faculty": {
+  "he": "פקולטה למתמטיקה ולמדעי הטבע",
+  "en": "Faculty of Sciences"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84830,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 19,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "לימודי חובה בחוג לפיסיקה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "77101",
+    "77114",
+    "76408",
+    "76222",
+    "77102",
+    "77622"
+   ]
+  },
+  {
+   "id": 84832,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 4,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורס חובה בתכנות בחוג לפיסיקה",
+    "en": "Required course in programming in Physics"
+   },
+   "order": 1,
+   "courses": [
+    "76641",
+    "76642"
+   ]
+  },
+  {
+   "id": 84823,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 2,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי  בחירה בחוג לפיסיקה:",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "77153"
+   ]
+  },
+  {
+   "id": 84128,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 27,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "לימודי חובה בחוג לפיסיקה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "77305",
+    "77303",
+    "77335",
+    "76408",
+    "76223",
+    "77336",
+    "77152",
+    "77318"
+   ]
+  },
+  {
+   "id": 84123,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 23,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי  בחירה בחוג לפיסיקה:",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "77313",
+    "77401",
+    "77607",
+    "77315",
+    "77412",
+    "77606",
+    "77153"
+   ]
+  },
+  {
+   "id": 83156,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 10,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "לימודי חובה בחוג לפיסיקה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "77307",
+    "77508",
+    "76224"
+   ]
+  },
+  {
+   "id": 83178,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": 18,
+   "maxCount": null,
+   "note": {
+    "he": "יש לבחור קורס אחד מהרשימה, מספר המקומות בכל סמינריון מוגבל ל- 12 משתתפים, מומלץ להירשם בתחילת השנה",
+    "en": ""
+   },
+   "order": 15,
+   "courses": [
+    "77119",
+    "77874",
+    "77638",
+    "77740",
+    "77634",
+    "77989",
+    "77765",
+    "77656",
+    "77664",
+    "77925",
+    "77892",
+    "77568",
+    "77594"
+   ]
+  },
+  {
+   "id": 83176,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 127,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה בחוג לפיסיקה",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "77742",
+    "77501",
+    "77874",
+    "77812",
+    "77909",
+    "83536",
+    "77320",
+    "77532",
+    "77258",
+    "84810",
+    "80519",
+    "77605",
+    "77915",
+    "77635",
+    "77693",
+    "77401",
+    "77891",
+    "76909",
+    "77331",
+    "77609",
+    "77607",
+    "77315",
+    "77966",
+    "80314",
+    "77603",
+    "77602",
+    "77412",
+    "55772",
+    "77542",
+    "77606",
+    "77980",
+    "84831",
+    "76908",
+    "77579",
+    "77153",
+    "77819",
+    "77082"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "530-8013",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה",
+    "en": "Mathematics, dual-major, with Physics"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

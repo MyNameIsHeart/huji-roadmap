@@ -1,0 +1,507 @@
+{
+ "code": "521-3015",
+ "name": {
+  "he": "מדעי המחשב, חד-חוגי, עם דגש בבינה מלאכותית",
+  "en": "Computer Science, single-major, with Artificial Intelligence emphasis"
+ },
+ "scope": {
+  "he": "חד-חוגי",
+  "en": "Single-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "מדעי המחשב",
+  "en": "Computer Science"
+ },
+ "departmentId": 179,
+ "faculty": {
+  "he": "ביה\"ס להנדסה ולמדעי המחשב",
+  "en": "The School of Computer Science & Engineering"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84716,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 46,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורסים: 67101, 80131,80134, 80187 בסמסטר הראשון ללימודים. את הקורסים 80430, 80133, 80135, 67315 בסמסטר השני ללימודים",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80134",
+    "80135",
+    "67100",
+    "80131",
+    "80430",
+    "67101",
+    "80187",
+    "67315",
+    "80133"
+   ]
+  },
+  {
+   "id": 86769,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "other",
+   "title": {
+    "he": "סדנאות עזר",
+    "en": "Support Workshops"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "סדנאות למידה נלוות לקורסי חובה בשנה א'. ההשתתפות בסדנאות הינה רשות",
+    "en": ""
+   },
+   "order": 37,
+   "courses": [
+    "80034",
+    "80035",
+    "80031",
+    "80033"
+   ]
+  },
+  {
+   "id": 84035,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 27,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "סמסטר 3: 67109, 67925, 67577, 67125 סמסטר 4: 67504",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67504",
+    "67577",
+    "67125",
+    "67109",
+    "67925",
+    "67808"
+   ]
+  },
+  {
+   "id": 106427,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 12,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "לימודי חובה בדגש בינה מלאכותית",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67822",
+    "67653",
+    "67912"
+   ]
+  },
+  {
+   "id": 87168,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "required_elective",
+   "title": {
+    "he": "חובת בחירה",
+    "en": "Required Electives"
+   },
+   "mandatory": false,
+   "minPoints": 3,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד לפחות קורס אחד מרשימה זו במהלך התואר בשנים ב'-ג'",
+    "en": "You must choose at least  1 course from this list in the years 2nd,3rd"
+   },
+   "order": 15,
+   "courses": [
+    "67731",
+    "67528",
+    "67718",
+    "67561",
+    "67607",
+    "67594",
+    "67658",
+    "67822",
+    "67392",
+    "67200",
+    "67978",
+    "67506",
+    "67922",
+    "67609",
+    "67564",
+    "67829",
+    "67912"
+   ]
+  },
+  {
+   "id": 106676,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורס בחירה פתוח החל משנה ב'",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67723"
+   ]
+  },
+  {
+   "id": 106855,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "קורסי בחירה בדגש בינה מלאכותית- יש ללמוד 10 נ\"ז מתוך קורסים אלו",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "67508",
+    "67723",
+    "67801",
+    "67539",
+    "67978",
+    "67664",
+    "67542",
+    "67562",
+    "67743",
+    "67564"
+   ]
+  },
+  {
+   "id": 87637,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה אשכול 1",
+    "en": "Required Electives, Cluster 1"
+   },
+   "mandatory": false,
+   "minPoints": 3,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "אשכול 1: יסודות הלמידה.\r\n יש לבחור קורס 1 לפחות מתוך רשימת הקורסים:",
+    "en": "Cluster 1: Model-Based AI\r\n\r\n:You must choose at least 1 course from the following list"
+   },
+   "order": 81,
+   "courses": [
+    "67731",
+    "76558",
+    "67678",
+    "67651",
+    "67721"
+   ]
+  },
+  {
+   "id": 106608,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה אשכול 2",
+    "en": "Required Electives, Cluster 2"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "אשכול 2: תחומי ישום\r\nיש לבחור קורס 1 לפחות מתוך רשימת הקורסים:",
+    "en": "Cluster 2: Application Domains\r\n\r\n:You must choose at least 1 course from the following list"
+   },
+   "order": 82,
+   "courses": [
+    "67718",
+    "67561",
+    "67705",
+    "67658",
+    "67801",
+    "67978",
+    "67542",
+    "67562",
+    "67724",
+    "76562",
+    "67829"
+   ]
+  },
+  {
+   "id": 106609,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה אשכול 3",
+    "en": "Required Electives, Cluster 3"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "אשכול 3: קוגניציה והשלכות חברתיות\r\nיש לבחור קורס 1 לפחות מתוך רשימת הקורסים:",
+    "en": "Cluster 3: Cognition and Social Implications\r\n\r\n:You must choose at least 1 course from the following list"
+   },
+   "order": 83,
+   "courses": [
+    "67398",
+    "67508"
+   ]
+  },
+  {
+   "id": 106610,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "חובת בחירה אשכול 4",
+    "en": "Required Electives, Cluster 4"
+   },
+   "mandatory": false,
+   "minPoints": 3,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "אשכול 4: תיאוריה\r\n\r\n יש לבחור קורס 1 לפחות מתוך רשימת הקורסים:",
+    "en": "Cluster 4: Theory\r\n\r\n:You must choose at least 1 course from the following list"
+   },
+   "order": 84,
+   "courses": [
+    "67731",
+    "67561",
+    "67656",
+    "67938"
+   ]
+  },
+  {
+   "id": 106611,
+   "year": 2,
+   "years": [
+    2,
+    3
+   ],
+   "kind": "other",
+   "title": {
+    "he": "בחירה קורסי פרויקט",
+    "en": "Elective - Project Courses"
+   },
+   "mandatory": false,
+   "minPoints": 2,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד לפחות קורס פרויקט אחד במהלך התואר",
+    "en": "At least one project course is required during the degree"
+   },
+   "order": 90,
+   "courses": [
+    "67801",
+    "67539",
+    "67978",
+    "67518",
+    "67664",
+    "67562",
+    "76562"
+   ]
+  },
+  {
+   "id": 106351,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 5,
+   "maxPoints": 5,
+   "maxCount": null,
+   "note": {
+    "he": "יש ללמוד את הקורס 67521 בסמסטר 5",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "67521"
+   ]
+  },
+  {
+   "id": 87634,
+   "year": 3,
+   "years": [
+    3
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 6,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "רשימת קורסי הבחירה במדעי המחשב להשלמת 126 נ\"ז בחוג.\r\n\r\nקורסים שבסילבוס מוגדרים כקורסי מוסמך ייתכן ויינתנו בשפה האנגלית.\r\n\r\nלתשומת לבך, חובה ללמוד 2 קורסים בשפה האנגלית במהלך התואר",
+    "en": "Electives in Computer Sciences. To complete the required 120 credits in Computer Sciences"
+   },
+   "order": 39,
+   "courses": [
+    "76558",
+    "67519",
+    "769001",
+    "67561",
+    "80423",
+    "67508",
+    "80445",
+    "80446",
+    "67705",
+    "67720",
+    "67879",
+    "67524",
+    "67538",
+    "67537",
+    "67601",
+    "67468",
+    "67883",
+    "67778",
+    "52006",
+    "80721",
+    "80424",
+    "76909",
+    "67678",
+    "67596",
+    "67651",
+    "67611",
+    "67539",
+    "67513",
+    "67711",
+    "80320",
+    "67791",
+    "67515",
+    "67613",
+    "67725",
+    "67604",
+    "67692",
+    "67927",
+    "67518",
+    "67664",
+    "76921",
+    "67542",
+    "67465",
+    "52935",
+    "67690",
+    "76553",
+    "76908",
+    "67562",
+    "67543",
+    "67803",
+    "67509",
+    "67534",
+    "67743",
+    "67691",
+    "67564",
+    "67501",
+    "67721",
+    "67818",
+    "67499",
+    "67677",
+    "67765",
+    "67503",
+    "76915",
+    "76562",
+    "67531",
+    "67548"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "523-9020",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מחשבים",
+    "en": "Amirim Honors Program - Computers"
+   }
+  }
+ ]
+}

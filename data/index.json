@@ -1,0 +1,352 @@
+{
+ "year": 2027,
+ "hebrewYear": "תשפ\"ז",
+ "fetchedAt": "2026-10-15T09:45:00Z",
+ "periods": {
+  "1": {
+   "he": "סמסטר א",
+   "en": "Semester A"
+  },
+  "2": {
+   "he": "סמסטר ב",
+   "en": "Semester B"
+  },
+  "3": {
+   "he": "סמסטר א או ב",
+   "en": "Semester A or B"
+  },
+  "5": {
+   "he": "שנתי",
+   "en": "Yearly"
+  },
+  "4": {
+   "he": "סמסטר קיץ",
+   "en": "Summer Semester"
+  }
+ },
+ "roadmaps": [
+  {
+   "code": "530-1010",
+   "name": {
+    "he": "מתמטיקה, חד-חוגי",
+    "en": "Mathematics, single-major"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "530-1012",
+   "name": {
+    "he": "מתמטיקה, חד-חוגי, עם חטיבה",
+    "en": "Mathematics, single-major, with module"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "530-8014",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב מדעי המחשב",
+    "en": "Mathematics, dual-major, with Computer Sciences"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "521-8014",
+   "name": {
+    "he": "מדעי המחשב, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Computer Sciences, dual-major, with Mathematics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מדעי המחשב",
+    "en": "Computer Science"
+   },
+   "departmentId": 179
+  },
+  {
+   "code": "530-8013",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה",
+    "en": "Mathematics, dual-major, with Physics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "541-8013",
+   "name": {
+    "he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Physics, dual-major, with Mathematics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "פיסיקה",
+    "en": "Physics"
+   },
+   "departmentId": 188
+  },
+  {
+   "code": "530-1025",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב סטטיסטיקה ומדע הנתונים",
+    "en": "Mathematics, dual-major, with Statistics and Data Science"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "824-1025",
+   "name": {
+    "he": "סטטיסטיקה ומדע הנתונים, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Statistics and Data Science, dual-major, with Mathematics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "סטטיסטיקה ומדע הנתונים",
+    "en": "Statistics and Data Science"
+   },
+   "departmentId": 314
+  },
+  {
+   "code": "530-1021",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב כלכלה",
+    "en": "Mathematics, dual-major, with Economics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "321-1021",
+   "name": {
+    "he": "כלכלה, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Economics, dual-major, with Mathematics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.A",
+   "department": {
+    "he": "כלכלה",
+    "en": "Economics"
+   },
+   "departmentId": 101
+  },
+  {
+   "code": "530-3092",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב בינה מלאכותית",
+    "en": "Mathematics, dual-major, with  Artificial Intelligence"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "528-3092",
+   "name": {
+    "he": "בינה מלאכותית, דו-חוגי, בשילוב מתמטיקה",
+    "en": "Artificial Intelligence, dual-major, with Mathematics"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "בינה מלאכותית",
+    "en": "Artificial Intelligence"
+   },
+   "departmentId": 528
+  },
+  {
+   "code": "530-1011",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב חוג ממדעי הטבע",
+    "en": "Mathematics, dual-major, with additional Science major"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  },
+  {
+   "code": "521-3010",
+   "name": {
+    "he": "מדעי המחשב, חד-חוגי",
+    "en": "Computer Sciences, single-major"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מדעי המחשב",
+    "en": "Computer Science"
+   },
+   "departmentId": 179
+  },
+  {
+   "code": "521-3013",
+   "name": {
+    "he": "מדעי המחשב חד-חוגי, עם דגש במתמטיקה",
+    "en": "Computer Science, Single Major, with Mathematics emphasis"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מדעי המחשב",
+    "en": "Computer Science"
+   },
+   "departmentId": 179
+  },
+  {
+   "code": "521-3015",
+   "name": {
+    "he": "מדעי המחשב, חד-חוגי, עם דגש בבינה מלאכותית",
+    "en": "Computer Science, single-major, with Artificial Intelligence emphasis"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מדעי המחשב",
+    "en": "Computer Science"
+   },
+   "departmentId": 179
+  },
+  {
+   "code": "521-3011",
+   "name": {
+    "he": "מדעי המחשב, דו-חוגי",
+    "en": "Computer Sciences, dual-major"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מדעי המחשב",
+    "en": "Computer Science"
+   },
+   "departmentId": 179
+  },
+  {
+   "code": "541-8010",
+   "name": {
+    "he": "פיסיקה, דו-חוגי, בשילוב מתמטיקה בדגש מתמטיקה",
+    "en": "Physics, dual-major, with Mathematics- Mathematics emphasis"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "פיסיקה",
+    "en": "Physics"
+   },
+   "departmentId": 188
+  },
+  {
+   "code": "530-8010",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש מתמטיקה",
+    "en": "Mathematics, dual-major, with Physics- Mathematics emphasis"
+   },
+   "scope": {
+    "he": "דו-חוגי",
+    "en": "Dual-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+   },
+   "departmentId": 184
+  }
+ ]
+}

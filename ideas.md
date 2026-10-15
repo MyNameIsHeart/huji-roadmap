@@ -1,0 +1,4 @@
+- in the about me, add a link to my other projects (heartproofs.com) and linkedin
+- add a local llm that helps study mathematics and cs
+- connect all of my studying related projects to one framework
+- add an easy way to schedule the courses themselves and import to calendar
