@@ -1,3 +1,5 @@
 .DS_Store
 __pycache__/
 node_modules/
+claude_rules.md
+ideas.md

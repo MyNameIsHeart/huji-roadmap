@@ -95,6 +95,8 @@ const STRINGS = {
     showAllTracks: 'כל המסלולים בשנתון',
     groupNote: 'הערה',
     electivesHint: 'קורסי בחירה נוספים נספרים לפי נ"ז לתואר; הוסיפו אותם מהרשימה.',
+    about: 'אודות',
+    aboutSite: 'האתר הנוסף שלי',
   },
   en: {
     title: 'Degree Roadmap',
@@ -192,6 +194,8 @@ const STRINGS = {
     showAllTracks: 'All tracks in the Shnaton',
     groupNote: 'Note',
     electivesHint: 'Extra electives count toward the degree credits; add them from the list.',
+    about: 'About me',
+    aboutSite: 'My other website',
   },
 };
 

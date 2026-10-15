@@ -203,6 +203,7 @@ function render() {
   renderCatalog();
   renderBoard();
   renderSensitivity();
+  renderAbout();
   requestAnimationFrame(drawArrows);
 }
 
@@ -634,6 +635,17 @@ function renderSensitivity() {
   table.append(tb);
   det.append(table);
   box.append(det);
+}
+
+function renderAbout() {
+  const box = document.getElementById('about');
+  box.replaceChildren(
+    el('h2', { text: t('about') }),
+    el('p', {},
+      el('span', { text: t('aboutSite') + ': ' }),
+      el('a', { href: 'https://heartproofs.com', target: '_blank', rel: 'noopener', text: 'heartproofs.com' }),
+      el('span', { text: ' · ' }),
+      el('a', { href: 'https://www.linkedin.com/in/noamlcv/', target: '_blank', rel: 'noopener', text: 'LinkedIn' })));
 }
 
 // ---------- boot ----------

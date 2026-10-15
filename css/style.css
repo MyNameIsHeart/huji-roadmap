@@ -184,6 +184,9 @@ main { display: flex; flex: 1; min-height: 0; }
 .sensitivity table { border-collapse: collapse; margin-top: 8px; width: 100%; max-width: 1000px; font-size: 13px; }
 .sensitivity th, .sensitivity td { text-align: start; padding: 5px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .sensitivity .delay { color: var(--bad); font-weight: 700; }
+.about { padding: 10px 20px; border-top: 1px solid var(--border); background: var(--panel); }
+.about h2 { font-size: 14px; margin: 0 0 4px; }
+.about p { margin: 0; }
 footer { padding: 8px 20px 16px; font-size: 11px; }
 
 .backdrop { position: fixed; inset: 0; background: rgba(0, 0, 0, .35); z-index: 20; }
