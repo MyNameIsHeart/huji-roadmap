@@ -20824,6 +20824,60 @@
 "additionalRequirements": false,
 "replacements": []
 },
+"8066675": {
+"code": "8066675",
+"name": {
+"he": "סמינר בדינמיקה מרוכבת",
+"en": "Seminar in complex dynamics"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"faculty": {
+"he": "פקולטה למתמטיקה ולמדעי הטבע",
+"en": "Faculty of Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"8066676": {
+"code": "8066676",
+"name": {
+"he": "נושאים במערכות דינמיות: אוטומטים תאיים",
+"en": "Topics in dynamics dynamical systems: cellular automata"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "מתמטיקה",
+"en": "Mathematics"
+},
+"faculty": {
+"he": "פקולטה למתמטיקה ולמדעי הטבע",
+"en": "Faculty of Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
 "8066677": {
 "code": "8066677",
 "name": {
