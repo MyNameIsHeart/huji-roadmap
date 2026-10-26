@@ -305,17 +305,17 @@
  ],
  "combinations": [
   {
-   "code": "530-8010",
-   "name": {
-    "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש מתמטיקה",
-    "en": "Mathematics, dual-major, with Physics- Mathematics emphasis"
-   }
-  },
-  {
    "code": "555-9025",
    "name": {
     "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
     "en": "Amirim program-Outstanding Program"
+   }
+  },
+  {
+   "code": "530-8010",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש מתמטיקה",
+    "en": "Mathematics, dual-major, with Physics- Mathematics emphasis"
    }
   }
  ]

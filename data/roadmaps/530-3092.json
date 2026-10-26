@@ -255,6 +255,13 @@
  ],
  "combinations": [
   {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  },
+  {
    "code": "523-9020",
    "name": {
     "he": "אמירים - תכנית מצטיינים - מחשבים",
@@ -266,13 +273,6 @@
    "name": {
     "he": "בינה מלאכותית, דו-חוגי, בשילוב מתמטיקה",
     "en": "Artificial Intelligence, dual-major, with Mathematics"
-   }
-  },
-  {
-   "code": "555-9025",
-   "name": {
-    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
-    "en": "Amirim program-Outstanding Program"
    }
   }
  ]

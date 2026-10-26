@@ -329,17 +329,17 @@
  ],
  "combinations": [
   {
-   "code": "530-1021",
-   "name": {
-    "he": "מתמטיקה, דו-חוגי, בשילוב כלכלה",
-    "en": "Mathematics, dual-major, with Economics"
-   }
-  },
-  {
    "code": "555-9025",
    "name": {
     "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
     "en": "Amirim program-Outstanding Program"
+   }
+  },
+  {
+   "code": "530-1021",
+   "name": {
+    "he": "מתמטיקה, דו-חוגי, בשילוב כלכלה",
+    "en": "Mathematics, dual-major, with Economics"
    }
   }
  ]

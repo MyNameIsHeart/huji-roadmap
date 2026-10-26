@@ -309,6 +309,13 @@
  ],
  "combinations": [
   {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  },
+  {
    "code": "530-8014",
    "name": {
     "he": "מתמטיקה, דו-חוגי, בשילוב מדעי המחשב",
@@ -320,13 +327,6 @@
    "name": {
     "he": "אמירים - תכנית מצטיינים - מחשבים",
     "en": "Amirim Honors Program - Computers"
-   }
-  },
-  {
-   "code": "555-9025",
-   "name": {
-    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
-    "en": "Amirim program-Outstanding Program"
    }
   }
  ]
