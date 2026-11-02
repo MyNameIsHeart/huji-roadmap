@@ -242,6 +242,22 @@
 "departmentId": 180
 },
 {
+"code": "755-1155",
+"name": {
+"he": "אמירים - תכנית מצטיינים למדעי החקלאות",
+"en": "Amirim Honors Program – Agricultural Sciences"
+},
+"scope": {
+"he": "תוכנית מצטיינים",
+"en": "Honors Program"
+},
+"department": {
+"he": "אמירים - תכנית מצטיינים - מדעי החקלאות",
+"en": "Amirim – Honors Program – Agricultural Sciences"
+},
+"departmentId": 288
+},
+{
 "code": "176-1810",
 "name": {
 "he": "אנגלית, דו-חוגי",
@@ -1186,7 +1202,7 @@
 "departmentId": 101
 },
 {
-"code": "321-4114",
+"code": "321-4115",
 "name": {
 "he": "כלכלה כחוג נוסף לתואר בתוכנית מכפיל",
 "en": "Economy as an additional major, MACHPIL program"
@@ -1202,7 +1218,7 @@
 "departmentId": 101
 },
 {
-"code": "321-4115",
+"code": "321-4114",
 "name": {
 "he": "כלכלה כחוג נוסף לתואר בתוכנית מכפיל",
 "en": "Economy as an additional major, MACHPIL program"
