@@ -8431,10 +8431,10 @@
 "en": "Computer Vision 3D"
 },
 "points": 2,
-"period": 2,
+"period": null,
 "periodName": {
-"he": "סמסטר ב",
-"en": "Semester B"
+"he": "",
+"en": ""
 },
 "department": {
 "he": "מדעי המחשב",
@@ -8444,7 +8444,7 @@
 "he": "ביה\"ס להנדסה ולמדעי המחשב",
 "en": "The School of Computer Science & Engineering"
 },
-"offered": true,
+"offered": false,
 "year": 2027,
 "prereq": null,
 "blockedBy": null,
@@ -10356,6 +10356,33 @@
 "en": "Introduction to Machine Learning"
 }
 },
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"67726": {
+"code": "67726",
+"name": {
+"he": "בינה מלאכותית למתמטיקה",
+"en": "AI for Mathematics"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "מדעי המחשב",
+"en": "Computer Science"
+},
+"faculty": {
+"he": "ביה\"ס להנדסה ולמדעי המחשב",
+"en": "The School of Computer Science & Engineering"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
 "blockedBy": null,
 "additionalRequirements": false,
 "replacements": []
