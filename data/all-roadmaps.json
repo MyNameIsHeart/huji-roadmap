@@ -1954,25 +1954,9 @@
 "departmentId": 34
 },
 {
-"code": "172-1815",
-"name": {
-"he": "לימודים קלאסיים, דו-חוגי",
-"en": "Classical Studies, dual-major"
-},
-"scope": {
-"he": "דו-חוגי",
-"en": "Dual-major"
-},
-"department": {
-"he": "לימודים קלאסיים",
-"en": "Classical Studies"
-},
-"departmentId": 40
-},
-{
 "code": "172-1813",
 "name": {
-"he": "לימודים קלאסיים, דו-חוגי, יוונית",
+"he": "לימודים קלאסיים, דו-חוגי, הדגש יוונית",
 "en": "Classical studies, Dual Major, Greek"
 },
 "scope": {
@@ -1988,8 +1972,24 @@
 {
 "code": "172-1814",
 "name": {
-"he": "לימודים קלאסיים, דו-חוגי, רומית",
+"he": "לימודים קלאסיים, דו-חוגי,הדגש רומית",
 "en": "Classical studies, Dual Major, Roman"
+},
+"scope": {
+"he": "דו-חוגי",
+"en": "Dual-major"
+},
+"department": {
+"he": "לימודים קלאסיים",
+"en": "Classical Studies"
+},
+"departmentId": 40
+},
+{
+"code": "172-1815",
+"name": {
+"he": "לימודים קלאסיים, דו-חוגי,משולב יוונית ורומית",
+"en": "Classical Studies, dual-major"
 },
 "scope": {
 "he": "דו-חוגי",

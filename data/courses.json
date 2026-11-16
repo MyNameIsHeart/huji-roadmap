@@ -73,6 +73,357 @@
 "year": 2027,
 "stub": true
 },
+"50058": {
+"code": "50058",
+"name": {
+"he": "תקשורת מחאה גלובלית",
+"en": "Global Protest Communication"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50059": {
+"code": "50059",
+"name": {
+"he": "תעמולה-מבט מחדש: שכנוע פוליטי בקונפליקטים חברתיים",
+"en": "Propaganda Revisited: Political Persuasion in Social Conflicts"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50068": {
+"code": "50068",
+"name": {
+"he": "בטחון סייבר: טכנולוגיה, מדיניות ופוליטיקה",
+"en": "Cyber security: Technology, Policy, and Politics"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50069": {
+"code": "50069",
+"name": {
+"he": "ניתוח טקסטואלי כמותי",
+"en": "Quantitative Textual Analysis"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50082": {
+"code": "50082",
+"name": {
+"he": "עדות ומדיה",
+"en": "Witnessing and Media"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50102": {
+"code": "50102",
+"name": {
+"he": "תקשורת, רגשות ושינוי עמדות",
+"en": "Media, Emotions and Political Attitudes"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50151": {
+"code": "50151",
+"name": {
+"he": "פרטיות וסוכנות אנושית בעידן המידע",
+"en": "Privacy and Human Agency in the Digital Age"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50275": {
+"code": "50275",
+"name": {
+"he": "מגדר ומגוון חברתי בתקשורת",
+"en": "Gender and Social Diversity: Media Perspectives"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50535": {
+"code": "50535",
+"name": {
+"he": "פופוליזם דיגיטלי",
+"en": "Digital Populism"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50640": {
+"code": "50640",
+"name": {
+"he": "לראות זה להאמין? אמון, דיסאינפורמציה ואימות מידע בעידן הדיגיטלי",
+"en": "Seeing Is Believing? Trust, Disinformation, and Information Verification in the Digital Age"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50817": {
+"code": "50817",
+"name": {
+"he": "תקשורת אפקטיבית ככלי ליישוב סכסוכים ולניהול משא-ומתן",
+"en": "Effective Communication as a Tool of Conflict Resolution and Negotiation Management"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50972": {
+"code": "50972",
+"name": {
+"he": "ניהול משברים תקשורתיים",
+"en": "Managing Communication Crises"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"50987": {
+"code": "50987",
+"name": {
+"he": "זיכרון השואה וקולנוע פופולרי",
+"en": "Global Holocaust Memory and Popular Cinema"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "תקשורת ועיתונאות",
+"en": "Communication & Journalism"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
 "51127": {
 "code": "51127",
 "name": {
@@ -1346,6 +1697,60 @@
 "offered": true,
 "year": 2027,
 "stub": true
+},
+"54613": {
+"code": "54613",
+"name": {
+"he": "היסטוריה חזותית של מזרח גרמניה",
+"en": "Visual History of the GDR"
+},
+"points": 2,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "לימודי גרמניה בת ימינו: פוליטיקה, חברה ותרבות",
+"en": "Cont. German Studies:politics, Soc.&Cult"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"54835": {
+"code": "54835",
+"name": {
+"he": "התקשורת וחברה בגרמניה - פרספקטיבות היסטוריות ועכשוויות",
+"en": "Media and Society in Germany - Historical and Contemporary Perspectives"
+},
+"points": 2,
+"period": 1,
+"periodName": {
+"he": "סמסטר א",
+"en": "Semester A"
+},
+"department": {
+"he": "לימודי גרמניה בת ימינו: פוליטיקה, חברה ותרבות",
+"en": "Cont. German Studies:politics, Soc.&Cult"
+},
+"faculty": {
+"he": "פקולטה למדעי החברה",
+"en": "Faculty of Social Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
 },
 "55008": {
 "code": "55008",
@@ -9010,7 +9415,7 @@
 "code": "67607",
 "name": {
 "he": "מבוא ונושאים באבטחת מידע (סייבר)",
-"en": "Introdution and Topics in Cyber Security"
+"en": "Introduction and Topics in Cyber Security"
 },
 "points": 4,
 "period": 1,
@@ -16243,6 +16648,41 @@
 "offered": true,
 "year": 2027,
 "prereq": null,
+"blockedBy": null,
+"additionalRequirements": false,
+"replacements": []
+},
+"77743": {
+"code": "77743",
+"name": {
+"he": "אנליזת נתונים מתקדמת 2: דאטה כנגד תאוריה",
+"en": "Advanced data analysis II: data vs. theory"
+},
+"points": 3,
+"period": 2,
+"periodName": {
+"he": "סמסטר ב",
+"en": "Semester B"
+},
+"department": {
+"he": "פיסיקה",
+"en": "Physics"
+},
+"faculty": {
+"he": "פקולטה למתמטיקה ולמדעי הטבע",
+"en": "Faculty of Sciences"
+},
+"offered": true,
+"year": 2027,
+"prereq": {
+"type": "COURSE",
+"code": "77742",
+"minGrade": 60,
+"name": {
+"he": "אנליזת נתונים מתקדמת",
+"en": "Advanced Data Analysis"
+}
+},
 "blockedBy": null,
 "additionalRequirements": false,
 "replacements": []

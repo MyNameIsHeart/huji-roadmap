@@ -257,6 +257,7 @@
     "77915",
     "77635",
     "77693",
+    "77743",
     "77401",
     "77891",
     "76909",
@@ -284,17 +285,17 @@
  ],
  "combinations": [
   {
-   "code": "555-9025",
-   "name": {
-    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
-    "en": "Amirim program-Outstanding Program"
-   }
-  },
-  {
    "code": "530-8013",
    "name": {
     "he": "מתמטיקה, דו-חוגי, בשילוב פיסיקה",
     "en": "Mathematics, dual-major, with Physics"
+   }
+  },
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
    }
   }
  ]
