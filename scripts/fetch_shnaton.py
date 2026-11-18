@@ -3,6 +3,7 @@
 
 Usage:
     python3 scripts/fetch_shnaton.py                # roadmaps listed in data/roadmaps.txt
+                                                    # ("<code> [degree credits]  # comment")
     python3 scripts/fetch_shnaton.py 530-1010 ...   # specific roadmap codes
     python3 scripts/fetch_shnaton.py --year 2026    # a specific catalog year
 
@@ -236,9 +237,16 @@ def main():
     print(f"catalog year {year} ({hebrew_year})")
 
     codes = args.codes
+    target_points = {}  # code -> total degree credits, when roadmaps.txt gives one
     if not codes:
         with open(os.path.join(DATA, "roadmaps.txt"), encoding="utf-8") as f:
-            codes = [l.split("#")[0].strip() for l in f if l.split("#")[0].strip()]
+            for line in f:
+                fields = line.split("#")[0].split()
+                if not fields:
+                    continue
+                codes.append(fields[0])
+                if len(fields) > 1:
+                    target_points[fields[0]] = int(fields[1])
 
     os.makedirs(os.path.join(DATA, "roadmaps"), exist_ok=True)
 
@@ -279,7 +287,10 @@ def main():
             json.dump(rm, f, ensure_ascii=False, indent=1)
         mand = sum(len(g["courses"]) for g in rm["groups"] if g["mandatory"])
         print(f"  {rm['name']['he']}: {len(rm['groups'])} groups, {len(rm_courses)} courses ({mand} mandatory)")
-        roadmaps_meta.append({k: rm[k] for k in ("code", "name", "scope", "degree", "department", "departmentId")})
+        meta = {k: rm[k] for k in ("code", "name", "scope", "degree", "department", "departmentId")}
+        if code in target_points:
+            meta["targetPoints"] = target_points[code]
+        roadmaps_meta.append(meta)
 
     todo = sorted(c for c in needed if "prereq" not in courses.get(c, {}))
     print(f"fetching prerequisites for {len(todo)} courses ...")

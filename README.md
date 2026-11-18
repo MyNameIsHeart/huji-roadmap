@@ -73,4 +73,7 @@ push to `main`. In the repository settings, under **Pages**, set the source to
   group. Department-level prerequisites that the Shnaton does not list per
   course are not modelled.
 - Credits-per-semester and total degree credits are settings; the Shnaton does
-  not expose the degree total per track.
+  not expose the degree total per track. The total defaults to 134, or to the
+  number given after a track's code in `data/roadmaps.txt` (e.g. `581-7031  180`
+  for Electrical Engineering and Applied Physics), and follows the selected
+  track unless the student typed their own value.

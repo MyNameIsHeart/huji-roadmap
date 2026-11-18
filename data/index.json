@@ -1,7 +1,7 @@
 {
  "year": 2027,
  "hebrewYear": "תשפ\"ז",
- "fetchedAt": "2026-11-16T10:51:00Z",
+ "fetchedAt": "2026-11-18T16:34:21Z",
  "periods": {
   "1": {
    "he": "סמסטר א",
@@ -347,6 +347,96 @@
     "en": "Mathematics"
    },
    "departmentId": 184
+  },
+  {
+   "code": "581-7030",
+   "name": {
+    "he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי",
+    "en": "Electrical Engineering and Applied Physics, single-major"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "הנדסת חשמל ופיזיקה יישומית",
+    "en": "Electrical Engineering and Applied Physics"
+   },
+   "departmentId": 213,
+   "targetPoints": 180
+  },
+  {
+   "code": "581-7031",
+   "name": {
+    "he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות במיקרו אלקטרוניקה",
+    "en": "Electrical engineering and Applied physics, Single Major, specialization in microelectronic"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "הנדסת חשמל ופיזיקה יישומית",
+    "en": "Electrical Engineering and Applied Physics"
+   },
+   "departmentId": 213,
+   "targetPoints": 180
+  },
+  {
+   "code": "581-7032",
+   "name": {
+    "he": "הנדסת חשמל ופיסיקה יישומית- חד-חוגי, התמחות באופטואלקטרוניקה",
+    "en": "Electrical engineering and Applied physics, Single Major, specialization in optoelectrical"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "הנדסת חשמל ופיזיקה יישומית",
+    "en": "Electrical Engineering and Applied Physics"
+   },
+   "departmentId": 213,
+   "targetPoints": 180
+  },
+  {
+   "code": "581-7033",
+   "name": {
+    "he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בננו-הנדסה",
+    "en": "Electrical engineering and Applied physics, Single Major, specialization in nano engineering"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "הנדסת חשמל ופיזיקה יישומית",
+    "en": "Electrical Engineering and Applied Physics"
+   },
+   "departmentId": 213,
+   "targetPoints": 180
+  },
+  {
+   "code": "581-7034",
+   "name": {
+    "he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בהנדסה קוונטית",
+    "en": "Electrical engineering and Applied physics, Single Major, specialization in Quantum engineering"
+   },
+   "scope": {
+    "he": "חד-חוגי",
+    "en": "Single-major"
+   },
+   "degree": "B.Sc",
+   "department": {
+    "he": "הנדסת חשמל ופיזיקה יישומית",
+    "en": "Electrical Engineering and Applied Physics"
+   },
+   "departmentId": 213,
+   "targetPoints": 180
   }
  ]
 }

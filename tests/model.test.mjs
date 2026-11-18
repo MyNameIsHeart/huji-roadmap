@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { Planner, mergeGroups, offeredAt, nextOffered } from '../js/model.js';
+import { Planner, mergeGroups, offeredAt, nextOffered, trackTargetPoints, targetAfterTrackChange } from '../js/model.js';
 
 const courses = JSON.parse(readFileSync(new URL('../data/courses.json', import.meta.url))).courses;
 const math = JSON.parse(readFileSync(new URL('../data/roadmaps/530-1010.json', import.meta.url)));
@@ -78,4 +78,14 @@ test('choosing an elective pulls in its prerequisites', () => {
     const w = r.warnings.get('80519') || [];
     assert.ok(!w.some(x => x.type === 'prereq'), JSON.stringify(w));
   }
+});
+
+test('degree credits follow the track unless the student set their own', () => {
+  const metas = [{ code: '530-1010' }, { code: '581-7031', targetPoints: 180 }, { code: '521-3011' }];
+  assert.equal(trackTargetPoints(metas, ['530-1010']), 134);
+  assert.equal(trackTargetPoints(metas, ['581-7031']), 180);
+  assert.equal(trackTargetPoints(metas, ['521-3011', '581-7031']), 180);
+  assert.equal(targetAfterTrackChange(134, metas, ['530-1010'], ['581-7031']), 180);
+  assert.equal(targetAfterTrackChange(180, metas, ['581-7031'], ['530-1010']), 134);
+  assert.equal(targetAfterTrackChange(140, metas, ['530-1010'], ['581-7031']), 140);
 });

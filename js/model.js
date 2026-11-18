@@ -2,6 +2,28 @@
 // greedy scheduling, critical-path sensitivity. No DOM access here.
 
 export const MAX_SLOTS = 24; // 12 academic years, plenty for any plan
+export const DEFAULT_TARGET_POINTS = 134;
+
+/**
+ * Total degree credits for the selected tracks: the largest `targetPoints`
+ * among their index entries, or the default when none sets one.
+ */
+export function trackTargetPoints(metas, codes) {
+  let best = DEFAULT_TARGET_POINTS;
+  for (const code of codes) {
+    const meta = metas.find(m => m.code === code);
+    if (meta && meta.targetPoints > best) best = meta.targetPoints;
+  }
+  return best;
+}
+
+/**
+ * Degree-credits setting after switching tracks from `before` to `after`:
+ * follows the new tracks' total unless the student had typed their own value.
+ */
+export function targetAfterTrackChange(current, metas, before, after) {
+  return current === trackTargetPoints(metas, before) ? trackTargetPoints(metas, after) : current;
+}
 
 export function slotYear(slot) { return Math.floor(slot / 2); } // 0-based
 export function slotSem(slot) { return slot % 2; }               // 0 = A, 1 = B

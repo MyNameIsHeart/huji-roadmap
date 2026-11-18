@@ -161,6 +161,8 @@ Decision: free-text rules such as "choose 6 courses" or "at most one course from
 
 Decision: defaults of 134 credits for the degree and 25 per semester, both editable. Reason: the Shnaton API returns no total for a track (`academicInfo` is empty) and students differ in load.
 
+Amendment: a track whose total differs from 134 carries it as a second field in `data/roadmaps.txt` (the four-year Electrical Engineering and Applied Physics tracks, `581-703x`, are 180). The fetcher copies it to `targetPoints` in `index.json`. Switching tracks moves the setting to the new tracks' total (the largest, for a dual major) only while it still equals the old tracks' total, so a value the student typed is kept. Alternative: parsing "סה\"כ לתואר 180" out of group notes, rejected because it is free text and the base track 581-7030 has no such note.
+
 ## ADR 10: Plan state in localStorage and in the URL
 
 Decision: the plan is saved under `huji-roadmap:v1` in localStorage and can be encoded as base64url JSON in the URL hash (`#s=`) for sharing. Alternative: a backend with accounts, rejected to stay static. Trade-off: no sync between devices beyond pasting the link.

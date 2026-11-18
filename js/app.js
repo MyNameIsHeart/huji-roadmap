@@ -1,4 +1,4 @@
-import { Planner, MAX_SLOTS, slotYear, slotSem, nextOffered, offeredAt, treeLeaves } from './model.js';
+import { Planner, MAX_SLOTS, DEFAULT_TARGET_POINTS, trackTargetPoints, targetAfterTrackChange, slotYear, slotSem, nextOffered, offeredAt, treeLeaves } from './model.js';
 import { t, name, setLang, getLang } from './i18n.js';
 import { hebrewYear } from './hebrew.js';
 
@@ -19,7 +19,7 @@ function defaultState() {
     roadmaps: [],
     startYear: null,
     maxPoints: 25,
-    targetPoints: 134,
+    targetPoints: DEFAULT_TARGET_POINTS,
     done: [],
     pinned: {},
     chosen: [],
@@ -230,7 +230,10 @@ function renderHeader() {
       codes[idx] = sel.value;
       const clean = codes.filter(Boolean);
       await ensureRoadmaps(clean);
-      update(() => { state.roadmaps = clean; });
+      update(() => {
+        state.targetPoints = targetAfterTrackChange(state.targetPoints, availableRoadmaps(), state.roadmaps, clean);
+        state.roadmaps = clean;
+      });
     });
     return el('label', { class: 'ctl' }, el('span', { text: label }), sel);
   };
@@ -239,7 +242,9 @@ function renderHeader() {
 
   const num = (key, label, min, max) => {
     const inp = el('input', { type: 'number', min, max, value: state[key] ?? '' });
-    inp.addEventListener('change', () => update(() => { state[key] = Number(inp.value) || defaultState()[key] || data.index.year; }));
+    const fallback = () => key === 'targetPoints' ? trackTargetPoints(availableRoadmaps(), state.roadmaps)
+      : defaultState()[key] || data.index.year;
+    inp.addEventListener('change', () => update(() => { state[key] = Number(inp.value) || fallback(); }));
     return el('label', { class: 'ctl' }, el('span', { text: label }), inp);
   };
   if (state.startYear == null) state.startYear = data.index.year;

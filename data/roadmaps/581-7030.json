@@ -1,0 +1,127 @@
+{
+ "code": "581-7030",
+ "name": {
+  "he": "הנדסת חשמל ופיסיקה יישומית, חד-חוגי",
+  "en": "Electrical Engineering and Applied Physics, single-major"
+ },
+ "scope": {
+  "he": "חד-חוגי",
+  "en": "Single-major"
+ },
+ "degree": "B.Sc",
+ "department": {
+  "he": "הנדסת חשמל ופיזיקה יישומית",
+  "en": "Electrical Engineering and Applied Physics"
+ },
+ "departmentId": 213,
+ "faculty": {
+  "he": "פקולטה למתמטיקה ולמדעי הטבע",
+  "en": "Faculty of Sciences"
+ },
+ "year": 2027,
+ "groups": [
+  {
+   "id": 84869,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 44,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "80153",
+    "83312",
+    "80114",
+    "76408",
+    "76639",
+    "80154",
+    "80177",
+    "83313",
+    "80157",
+    "83106"
+   ]
+  },
+  {
+   "id": 84870,
+   "year": 1,
+   "years": [
+    1
+   ],
+   "kind": "elective",
+   "title": {
+    "he": "בחירה",
+    "en": "Electives"
+   },
+   "mandatory": false,
+   "minPoints": 0,
+   "maxPoints": 0,
+   "maxCount": null,
+   "note": {
+    "he": "יתקיימו סדנאות בקורסי מתמטיקה 80153 ו-80177 ובקורס מכניקה לתלמידי הנדסה 83002, הסדנאות אינן חובה",
+    "en": ""
+   },
+   "order": 39,
+   "courses": [
+    "80053",
+    "83002",
+    "80077"
+   ]
+  },
+  {
+   "id": 84188,
+   "year": 2,
+   "years": [
+    2
+   ],
+   "kind": "mandatory",
+   "title": {
+    "he": "חובה",
+    "en": "Mandatory"
+   },
+   "mandatory": true,
+   "minPoints": 55,
+   "maxPoints": null,
+   "maxCount": null,
+   "note": {
+    "he": "-יש ללמוד בסמס' א' את קורס הבטיחות 76223, לא תתאפשר כניסה למעבדות ללא קורס זה",
+    "en": ""
+   },
+   "order": 1,
+   "courses": [
+    "83325",
+    "83335",
+    "80431",
+    "77313",
+    "83911",
+    "76223",
+    "83328",
+    "67651",
+    "83326",
+    "67200",
+    "83315",
+    "80314"
+   ]
+  }
+ ],
+ "combinations": [
+  {
+   "code": "555-9025",
+   "name": {
+    "he": "אמירים - תכנית מצטיינים - מדעי הטבע",
+    "en": "Amirim program-Outstanding Program"
+   }
+  }
+ ]
+}

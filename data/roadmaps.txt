@@ -1,4 +1,6 @@
 # Roadmap codes fetched by scripts/fetch_shnaton.py (one per line).
+# An optional number after the code is the track's total degree credits, when it
+# differs from the planner's default of 134 (the Shnaton API does not expose it).
 # Find more codes in data/all-roadmaps.json or at https://shnaton.huji.ac.il/roadmaps
 530-1010  # מתמטיקה, חד-חוגי
 530-1012  # מתמטיקה, חד-חוגי, עם חטיבה
@@ -19,3 +21,8 @@
 521-3011  # מדעי המחשב, דו-חוגי
 541-8010  # פיסיקה, דו-חוגי, בשילוב מתמטיקה בדגש מתמטיקה
 530-8010  # מתמטיקה, דו-חוגי, בשילוב פיסיקה בדגש מתמטיקה
+581-7030  180  # הנדסת חשמל ופיסיקה יישומית, חד-חוגי
+581-7031  180  # הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות במיקרו אלקטרוניקה
+581-7032  180  # הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות באופטואלקטרוניקה
+581-7033  180  # הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בננו-הנדסה
+581-7034  180  # הנדסת חשמל ופיסיקה יישומית, חד-חוגי, התמחות בהנדסה קוונטית
