@@ -242,6 +242,7 @@
    "courses": [
     "76558",
     "67519",
+    "67398",
     "769001",
     "67561",
     "80423",
@@ -258,6 +259,7 @@
     "67601",
     "67468",
     "67883",
+    "67684",
     "67778",
     "67726",
     "52006",
@@ -269,6 +271,7 @@
     "67822",
     "67651",
     "67611",
+    "67688",
     "67539",
     "67513",
     "67711",
@@ -334,32 +337,6 @@
    "courses": [
     "67468",
     "67629"
-   ]
-  },
-  {
-   "id": 87034,
-   "year": 3,
-   "years": [
-    3
-   ],
-   "kind": "other",
-   "title": {
-    "he": "קורסים מרחיבי דעת",
-    "en": "Enrichment Courses"
-   },
-   "mandatory": false,
-   "minPoints": 0,
-   "maxPoints": 3,
-   "maxCount": null,
-   "note": {
-    "he": "ניתן לבחור עד קורס 1 מרשימה זו",
-    "en": "Free electives in Computer Sciences. Students may take up to one course only from this list"
-   },
-   "order": 70,
-   "courses": [
-    "67398",
-    "67684",
-    "67688"
    ]
   }
  ],
